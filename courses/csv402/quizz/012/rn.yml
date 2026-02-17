@@ -1,9 +1,0 @@
-question: Ni umwimenyerezo uyuhe uri murukwirikirane rwa RGB ?
-answer: Igisohoka gihindura, ibishasha canke kurema ibiranga amasezerano ukuntuameze.
-wrong_answers:
-  - Ukwiyemeza kwihariye kw'ubuhinga bw'ukunyegeza inyandiko kwashizwe mw'ihanahanwa rya Bitcoin
-  - Ibice vy'ihanahanwa rya Bitcoin bishirwako umukono imbere y'ukwemezwa kwanyuma
-  - Igitabu gishasha c'uko bimeze muri rusangi.
-explanation: |
-  Umwimenyerezo uhuriza hamwe insiguro ya Serire hamwe n'ukobimeze kugira ngo iserukire igice c'uko bimeze.
-reviewed: true

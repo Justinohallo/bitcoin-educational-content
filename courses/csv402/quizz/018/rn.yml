@@ -1,9 +1,0 @@
-question: Ni ikihe gikorwa gisigura iterambere rya Smart contract muri RGB?
-answer: Ihinduka ry'uko bimeze, Itanguriro, n'uko bimeze ivyiyongerako.
-wrong_answers:
-  - Ugukora Serire, Ukwihweza amasezerano, n’Ukwemeza kwa nyuma
-  - Ukurungika UTXO, Gutanga Ivyemezo, hamwe n'ukwiyemeza kwa Hash.
-  - Umutekero w'impinduka, Serire ikoreshwa rimwe, n'Ikorwa rya Valency
-explanation: |
-  Bino bikorwa birakora canke bigahindura uko amasezerano ameze, mu gihe mu gihe bitanga icemezo c’uko ikora biciye kuvyo Bitcoin ishinzeko imizi.
-reviewed: true

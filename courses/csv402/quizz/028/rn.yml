@@ -1,9 +1,0 @@
-question: Mu masezerano ya RGB, n'akahe kamaro k'ahakorerwa ibintu?
-answer: Gutuma amakuru y'amasezeranpo yoroha gusoma no gukoreshwa
-wrong_answers:
-  - Gukoresha inyandiko zo kwemeza kuri Blockchain.
-  - Bika amakuru y'itanguriro ku ruhande rw'umuguzi
-  - Gusigura ubwoko bukomeye bw'uburyo bwa raporo
-explanation: |
-  Intumbero y'ahakorerwa ibintu ni ugushikiriza amakuru y'amasezerano mu buryo butomoye ku bakoresha no kuri porogarama, ataco bihinduye kuko ishoramari rimeze.
-reviewed: true

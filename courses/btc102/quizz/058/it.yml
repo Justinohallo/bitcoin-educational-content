@@ -1,9 +1,0 @@
-question: Quale soluzione è consigliata all'utente paranoico per il cold storage?
-answer: Hardware wallet airgap e DIY (fai-da-te)
-wrong_answers:
-  - Hot Wallet su telefono
-  - Servizio di custodia su una piattaforma Exchange
-  - Hardware Wallet a closed source per uso generico
-explanation: |
-  L'utente paranoico preferisce il cold storage offline, con soluzioni open-source, per ridurre al minimo il rischio di esposizione.
-reviewed: true

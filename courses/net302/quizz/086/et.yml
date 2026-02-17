@@ -1,9 +1,0 @@
-question: Millist käsku soovitatakse aktiivsete TCP- ja UDP-ühenduste analüüsimiseks Linuxi süsteemis?
-answer: ss
-wrong_answers:
-  - arp
-  - ip-link
-  - ifup
-explanation: |
-  Käsk ss asendab netstat'i, et kuvada kiiresti kõik aktiivsed võrguühendused.
-reviewed: false

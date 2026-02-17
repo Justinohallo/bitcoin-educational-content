@@ -1,9 +1,0 @@
-question: Jaki jest główny cel przyświecający stworzeniu Bitcoina?
-answer: Oddzielić państwo od pieniędzy.
-wrong_answers:
-  - Wyeliminować standard złota.
-  - Sprawić, aby transakcje były szybsze i tańsze.
-  - Sprawić, aby wszyscy byli bogaci.
-explanation: |
-  Bitcoin został stworzony w celu oddzielenia państwa od pieniędzy. Jest to odpowiedź na systemowe wyzwania obecnego porządku finansowego, w którym państwo ma pełną kontrolę nad pieniądzem i może nim manipulować na swoją korzyść.
-reviewed: true

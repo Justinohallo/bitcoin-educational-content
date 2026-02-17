@@ -1,9 +1,0 @@
-question: Co system transakcji zobowiązujących gwarantuje uczestnikom kanału Lightning?
-answer: Każdy z nich może odzyskać swoje środki, publikując ostatnią podpisaną transakcję
-wrong_answers:
-  - Transakcje te są widoczne w łańcuchu bloków Bitcoina
-  - Przepustowość kanału wzrasta z każdą transakcją
-  - Opłaty są dzielone między dwóch uczestników
-explanation: |
-  Podpisane transakcje zobowiązujące zapewniają, że każdy uczestnik może odzyskać swoje środki, publikując najnowszą wersję dystrybucji środków w przypadku zamknięcia kanału.
-reviewed: true

@@ -1,9 +1,0 @@
-question: Ni gute RGB yongerereza iterambere ugereranije na Blockchain ya kera ?
-answer: Mu kugabanya ububiko n'ukwemeza impinduka zikenewe cane gusa
-wrong_answers:
-  - Biciye kurubuga ngurukana bumenyi ukwongerereza ubunini bw’amabuye ya Bitcoin .
-  - Mu guhuza Amasezerano n'ama UTXO yose
-  - Mu gushiramwo amakuru y'amasezerano kubushinguzi bukeyi bufise aho buyoboka
-explanation: |
-  RGB igabanya ibisabwa kubushinguzi no kwemeza kubikenewe mukugumana gusa amakuru ngirakamaro kuri buriwuyikoresha.
-reviewed: true

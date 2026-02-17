@@ -1,9 +1,0 @@
-question: Was ist die Hauptfunktion eines erweiterten Schlüssels in einer HD-Wallet?
-answer: Die Ableitung von untergeordnete Schlüsseln zu ermöglichen
-wrong_answers:
-  - Die Transaktionen der Wallet speichern
-  - Direkt die UTXOs zu generieren
-  - Die öffentlichen Schlüssel zu verschlüsseln
-explanation: |
-  Ein erweiterter Schlüssel kombiniert einen Schlüssel (entweder privat oder öffentlich) mit einem zugehörigen Chain-Code, d.h., den beiden Elementen, die notwendig sind, um untergeordnete Schlüssel abzuleiten.
-reviewed: true

@@ -1,8 +1,0 @@
-question: Millised on 2 elementi, mis moodustavad ploki preemia coinbase tehingus?
-answer: Ploki toetus ja tehingutasud.
-wrong_answers:
-  - Ploki toetus ja kiirusboonused.
-  - Emiteerimisõigused ja turvapreemiad.
-  - Kaevandamisdividendid ja võrgumaksud.
-explanation: |
-  Kui kaevandaja leiab kehtiva ploki, on tal õigus preemiale, mis koosneb ühelt poolt ploki toetusest ja teiselt poolt tehingutasudest, mida nad on oma plokki kaasanud.

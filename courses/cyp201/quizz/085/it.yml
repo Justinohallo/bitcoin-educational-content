@@ -1,9 +1,0 @@
-question: Quale operazione è necessaria per calcolare una chiave pubblica Taproot Q?
-answer: Aggiungere il tweak tG alla chiave pubblica P
-wrong_answers:
-  - Moltiplicare la chiave privata p per il tweak
-  - Fare l'hash della chiave pubblica P con SHA256
-  - Concatenare il tweak t e la chiave pubblica P
-explanation: |
-  La chiave pubblica Taproot Q si ottiene aggiungendo alla chiave pubblica P il prodotto scalare del tweak t per il generatore G.
-recensito: false

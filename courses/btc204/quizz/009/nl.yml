@@ -1,9 +1,0 @@
-question: Wat zijn de 2 elementen die samen de bloksubsidie (block reward) vormen in een coinbase-transactie?
-answer: De bloksubsidie en de transactiekosten.
-wrong_answers:
-  - De bloksubsidie en de snelheidsbonussen.
-  - De emissierechten en de veiligheidspremies.
-  - De mining-dividenden en de netwerkbelastingen.
-explanation: |
-  Wanneer een miner een geldig blok vindt, heeft hij recht op een beloning die bestaat uit enerzijds de bloksubsidie en anderzijds de vergoedingen van de transacties die hij in zijn blok heeft opgenomen.
-reviewed: false

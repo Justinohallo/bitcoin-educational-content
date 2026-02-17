@@ -1,9 +1,0 @@
-question: Giải pháp thay thế nào cho Swiss Bitcoin Pay để chấp nhận thanh toán Bitcoin cho hồ sơ Essential là lưu ký 100%?
-answer: Nút mở
-wrong_answers:
-  - Máy chủ BTCPay
-  - Bitcoinize PoS
-  - Phoenix Wallet
-explanation: |
-  Open Node được coi là giải pháp lưu ký hoàn toàn, khác với bản chất kết hợp của Swiss Bitcoin Pay.
-reviewed: true

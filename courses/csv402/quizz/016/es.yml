@@ -1,9 +1,0 @@
-question: ¿Cuáles son los dos componentes principales del estado de un smart contract en RGB?
-answer: Global State y Owned States
-wrong_answers:
-  - Commitment y Genesis
-  - Seal Definition y State Transition
-  - Valency y Contract Rights
-explanation: |
-  El Global State contiene datos públicos, mientras que los Owned States están asociados a titulares concretos a través de UTXOs.
-reviewed: false

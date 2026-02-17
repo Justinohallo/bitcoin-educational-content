@@ -1,9 +1,0 @@
-question: 完全にオープンソースで、コミュニティによる監査が可能なAndroidコンポーネントは？
-answer: AOSP
-wrong_answers:
-  - グーグルモバイルサービス
-  - プレイストア
-  - iOSP
-explanation: |
-  アンドロイドのAOSPベースだけが無料だ。広く使われているグーグルモバイルサービスはプロプライエタリで、監査できない。
-reviewed: false

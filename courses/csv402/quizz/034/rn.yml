@@ -1,9 +1,0 @@
-question: Ni igikorwa ikihe Bob (uwuronka) akora amaze kwakira ayashika yanyuma avuye kwa Alice (uwuriha)?
-answer: Suzuma neza uko bihinduka hama utereko umukono
-wrong_answers:
-  - Guhindura Igicapo c'amasezerano hama ukakirungika kwa Alice.
-  - Gukora Fagitire kugikorwa gishasha
-  - Gutera umukono kuri PSBT ya Alice hamwe nokuyisabikanya kuri Onchain
-explanation: |
-  Bob asuzuma Irungikwa, akamenya neza ko iyo mpinduka ihuye n’amategeko, hanyuma agashirako umukono kugira ngo yemeze ko yemeye.
-reviewed: true

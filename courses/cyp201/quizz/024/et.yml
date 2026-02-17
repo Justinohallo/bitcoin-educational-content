@@ -1,9 +1,0 @@
-question: Mis on Bitcoinis kasutatava toorprivaatvõtme suurus?
-answer: 256 bitti
-wrong_answers:
-  - 128 bitti
-  - 512 bitti
-  - 1024 bitti
-explanation: |
-  Bitcoinis on privaatvõti 256-bitine juhuslik täisarv, tagades piisavalt suure võtmeruumi, et garanteerida turvalisus.
-reviewed: false

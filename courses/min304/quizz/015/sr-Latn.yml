@@ -1,9 +1,0 @@
-question: Koji je princip na kojem Bitcoin rudarenje radi?
-answer: Bitcoin rudarenje radi na principu lutrije, gde su šanse za osvajanje bloka (a samim tim i Bitcoin nagrade) svakih deset minuta izuzetno male za pojedinačnog malog rudara.
-wrong_answers:
-  - Bitcoin rudarenje radi na principu "ko prvi dođe, prvi je poslužen", gde prvi rudar koji reši složen matematički problem dobija Bitcoin nagradu.
-  - Bitcoin rudarenje radi na principu licitiranja, gde rudar koji ponudi najviše dobija Bitcoin nagradu.
-  - Bitcoin rudarenje radi na principu rotacije, gde svaki rudar dobija priliku da iskopa blok i primi Bitcoin nagradu.
-explanation: |
-  Poglavlje objašnjava da Bitcoin rudarenje radi na principu lutrije, gde su šanse za osvajanje bloka (i samim tim Bitcoin nagrade) svakih deset minuta izuzetno male za pojedinačnog malog rudara.
-reviewed: true

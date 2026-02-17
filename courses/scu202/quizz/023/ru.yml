@@ -1,9 +1,0 @@
-question: Какой графический инструментарий используется в GNOME и Xfce?
-answer: GTK
-wrong_answers:
-  - Qt
-  - Tkinter
-  - Узор
-explanation: |
-  GNOME, Xfce, Cinnamon и MATE основаны на GTK, программной библиотеке, предназначенной для создания графических пользовательских интерфейсов в Linux.
-reviewed: false

@@ -1,8 +1,0 @@
-question: 由单个输入 UTXO 和单个输出 UTXO 组成的模式叫什么名字？
-answer: 整额转出模式
-wrong_answers:
-  - 整合
-  - 混币
-  - 分组支出
-explanation: |
-  对这种结构的解释是一次比特币自我转账的过程。

@@ -1,9 +1,0 @@
-question: Mengapa Miner membutuhkan node Bitcoin?
-answer: Untuk berinteraksi dengan jaringan dan mendistribusikan blok Anda
-wrong_answers:
-  - Untuk generate signature digital
-  - Untuk memasukkan pengiriman Address Anda di Coinbase Transaction
-  - Untuk mengurangi kesulitan Mining
-explanation: |
-  Miner menggunakan node untuk berkomunikasi dengan jaringan, mengirimkan blok mereka, dan menerima transaksi.
-reviewed: true

@@ -1,9 +1,0 @@
-question: Kako Keysend tehnologija omogućava transfer sredstava bez fakture?
-answer: Pošiljalac generiše tajnu u HTLC-ovima kako bi otključao sredstva.
-wrong_answers:
-  - Primalac generiše heš da validira transfer
-  - Plaćanje se potvrđuje putem direktnog kanala između pošiljaoca i primaoca.
-  - Sredstva se direktno uplaćuju bez dodatnog obezbeđenja
-explanation: |
-  Keysend omogućava pošiljaocu da generiše tajnu ugrađenu u HTLC-ove, omogućavajući primaocu da otključa sredstva bez izdavanja fakture.
-reviewed: true

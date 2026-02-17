@@ -1,9 +1,0 @@
-question: Ni uruhe rugero rwa RGB rukoreshwa mu gusigura tokens zihinduka ?
-answer: RGB20
-wrong_answers:
-  - RGB21
-  - RGB22
-  - RGB25
-explanation: |
-  RGB20 ni urugero rukoreshwa mu kurema no gucunga ama token ahinduka kubijanye n'urukwirikirane rwa RGB.
-reviewed: true

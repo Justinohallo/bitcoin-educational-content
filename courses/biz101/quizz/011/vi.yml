@@ -1,9 +1,0 @@
-question: Lightning mang lại lợi thế gì cho các thương gia về tính xác thực của thanh toán?
-answer: Thanh toán trên Lightning được hoàn tất gần như ngay lập tức, giúp giảm thiểu nguy cơ đảo ngược hoặc gian lận.
-wrong_answers:
-  - Phải chờ 24 giờ trước khi có thể chi tiêu tiền.
-  - Cho phép khách hàng đòi lại khoản thanh toán của mình bất cứ lúc nào.
-  - Nó cho phép các giao dịch có thể đảo ngược hoàn toàn trong tối đa 90 ngày.
-explanation: |
-  Với Lightning, một khi khoản thanh toán được định tuyến và giải quyết thông qua mạng lưới, nó sẽ được hoàn tất. Điều này loại bỏ tình trạng hoàn trả thường thấy ở các hệ thống thanh toán truyền thống.
-reviewed: true

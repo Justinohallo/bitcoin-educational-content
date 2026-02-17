@@ -1,6 +1,0 @@
----
-term: Minitapscript
-definition: Version de Miniscript adaptée à Tapscript pour les sorties Taproot.
----
-
-Version de Miniscript pour Tapscript. Tapscript dispose de quelques différences notables avec Script dans sa version originale. MiniTapscript fournit ainsi la prise en charge de Tapscript dans Miniscript.

@@ -1,9 +1,0 @@
-question: Milline süsteem võimaldab kiireid ja odavaid tehinguid Bitcoin-l?
-answer: Lightning Network
-wrong_answers:
-  - SegWit
-  - Ripple Network
-  - RGB
-explanation: |
-  Lightning Network on teine Layer lahendus, mis võimaldab kiireid arveldusi ja vähendab BTC tehingute kulusid.
-reviewed: false

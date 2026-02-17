@@ -1,9 +1,0 @@
-question: Siapa yang menemukan konsep penyederhanaan verifikasi pembayaran (SPV)?
-answer: Satoshi Nakamoto
-wrong_answers:
-  - Hal Finney
-  - Adam Kembali
-  - Pieter Wuille
-explanation: |
-  SPV disajikan di bagian 8 dari White Paper Satoshi Nakamoto.
-reviewed: true

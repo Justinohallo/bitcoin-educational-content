@@ -1,9 +1,0 @@
-question: U cikličnoj grupi, koji je termin za element koji može generisati sve druge elemente kroz eksponencijaciju?
-answer: Generator
-wrong_answers:
-  - Multiplikator
-  - Koprimni
-  - Inverzni
-explanation: |
-  Generator je element u cikličnoj grupi koji, kroz eksponencijaciju, može proizvesti sve druge elemente grupe.
-reviewed: true

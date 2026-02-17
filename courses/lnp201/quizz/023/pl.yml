@@ -1,9 +1,0 @@
-question: Dlaczego Alicja i Bob wymieniają swoje sekrety dla poprzednich transakcji zobowiązujących?
-answer: Aby umożliwić każdemu z nich ochronę, jeśli drugi opublikuje starą transakcję
-wrong_answers:
-  - Aby zwiększyć przepustowość kanału
-  - Aby zablokować sobie nawzajem dostępu do funduszy
-  - Aby podzielić fundusze po równo
-explanation: |
-  Wymiana sekretów dotyczących poprzednich transakcji pozwala każdemu uczestnikowi ukarać drugiego w przypadku próby oszustwa poprzez opublikowanie starej transakcji.
-reviewed: true

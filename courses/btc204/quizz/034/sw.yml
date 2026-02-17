@@ -1,9 +1,0 @@
-question: Katika shughuli rahisi ya malipo ambapo kuna pembejeo ya 500,000 Sats zilizogawanywa katika pato moja la 47,500 Sats na lingine la 451,000 Sats, ambazo UTXO zinaweza kubadilika?
-answer: Moja ya 451,000 Sats.
-wrong_answers:
-  - Moja ya 500,000 Sats.
-  - Moja ya 47,500 Sats.
-  - Hakuna hata mmoja wao.
-explanation: |
-  Wakati kuna tofauti kubwa ya kutosha kati ya matokeo mawili katika shughuli ya muundo rahisi wa malipo, inaweza kukadiriwa kuwa matokeo makubwa zaidi yanaweza kuwa mabadiliko.
-reviewed: true

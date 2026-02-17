@@ -1,9 +1,0 @@
-question: Welche Rolle spielt ein LSP bei Bitcoin-Zahlungen in Unternehmen?
-answer: Verwaltung von hochvolumigen Transaktionen mit Lightning
-wrong_answers:
-  - Speicherung privater Schlüssel der Lightning-Brieftasche
-  - Lightning-Rechnungen drucken
-  - Erstattungen manuell über Lightning verarbeiten
-explanation: |
-  LSPs wickeln komplexe und hochvolumige Vorgänge mit Lightning ab.
-reviewed: true

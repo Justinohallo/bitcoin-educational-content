@@ -1,9 +1,0 @@
-question: Bitcoin ब्लॉकचेन का वर्तमान आकार क्या है?
-answer: लगभग 660GB
-wrong_answers:
-  - लगभग 110GB
-  - लगभग 1TB
-  - लगभग 2TB
-explanation: |
-  Bitcoin ब्लॉकचेन का आकार 2025 में लगभग 660GB है।
-reviewed: true

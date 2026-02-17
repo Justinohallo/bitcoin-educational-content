@@ -1,9 +1,0 @@
-question: Qual é o tamanho atual do blockchain do Bitcoin?
-answer: Cerca de 660GB
-wrong_answers:
-  - Cerca de 110GB
-  - Cerca de 1TB
-  - Cerca de 2TB
-explanation: |
-  O blockchain do Bitcoin tem cerca de 660GB de tamanho em 2025.
-reviewed: true

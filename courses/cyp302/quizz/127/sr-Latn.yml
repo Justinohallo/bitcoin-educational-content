@@ -1,9 +1,0 @@
-question: Koji matematički koncept je osnova za Diffie-Hellman razmenu ključa?
-answer: Jednosmerna funkcija sa zadnjim vratima (zamkom)
-wrong_answers:
-  - Inverzna eksponencijalna funkcija
-  - Kriptografski heš algoritam 
-  - Pojednostavljena modularna podela
-explanation: |
-  Diffie-Hellman se oslanja na jednosmernu funkciju koja je laka za izračunavanje u jednom pravcu, ali je praktično nemoguće obrnuti bez tajnog dela informacije, nazvanog zadnja vrata ili zamka.
-reviewed: true

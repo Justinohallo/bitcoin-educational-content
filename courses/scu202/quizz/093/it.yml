@@ -1,9 +1,0 @@
-question: Quale protocollo viene utilizzato principalmente per identificare ogni apparecchiatura su Internet?
-answer: IP
-wrong_answers:
-  - DNS
-  - HTTP
-  - SMTP
-explanation: |
-  Il protocollo Internet (IP) assegna a ogni dispositivo un Address univoco e consente l'instradamento dei pacchetti di dati.
-reviewed: false

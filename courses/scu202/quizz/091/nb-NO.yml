@@ -1,9 +1,0 @@
-question: Hvilken protokoll tildeler dynamisk en lokal IP Address til enheter som er koblet til et nettverk?
-answer: DHCP
-wrong_answers:
-  - HTTP
-  - FTP
-  - DNS
-explanation: |
-  DHCP tildeler automatisk en IP Address til hver nye enhet som kobles til det lokale nettverket.
-reviewed: false

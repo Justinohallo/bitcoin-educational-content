@@ -1,9 +1,0 @@
-question: Nel file YAML utilizzato per emettere una risorsa, quale campo definisce il numero totale di token emessi?
-answer: emessoFornitura
-wrong_answers:
-  - proprietario del bene
-  - spec
-  - importo
-explanation: |
-  Il campo "issuedSupply" nel file YAML definisce la quantità totale di token emessi per il contratto.
-reviewed: false

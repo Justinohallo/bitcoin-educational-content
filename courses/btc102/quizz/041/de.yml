@@ -1,9 +1,0 @@
-question: Wie hoch ist der ungefähre Höchstwert der im Umlauf befindlichen Bitcoins?
-answer: 21 Millionen
-wrong_answers:
-  - 10 Millionen
-  - 47 Millionen
-  - 150 Millionen
-explanation: |
-  Bitcoin ist so programmiert, dass es ein begrenztes Angebot von etwa 21 Millionen Bitcoins gibt.
-reviewed: false

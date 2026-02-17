@@ -1,9 +1,0 @@
-question: Koji je glavni cilj šeme autentifikovanog šifrovanja?
-answer: Osiguravanje poverljivosti i autentičnosti komunikacija
-wrong_answers:
-  - Generisanje ključeva na siguran način
-  - Zamena MAC-a u kriptografskim razmenama
-  - Automatsko dešifrovanje presretnute poruke
-explanation: |
-  Autentifikovana šema šifrovanja kombinuje šifrovanje i autentifikacioni kod (MAC) kako bi garantovala i poverljivost poruka i njihovu autentičnost.
-reviewed: true

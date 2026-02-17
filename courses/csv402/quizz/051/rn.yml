@@ -1,9 +1,0 @@
-question: Insiguro ya Serire ni iki muvyerekeye umwimenyerezo wa RGB ?
-answer: Ivyo bivugwa ku UTXO ishinga ry'Ukwitirirwa ikintu n'ukubitunga.
-wrong_answers:
-  - Umugwi ry’amakuru yahanahanwa hagati y’ababuranyi, hakurikijwe Ukweeza kuruhande rw'umukiriya.
-  - Gukoranya amasezerano muri off-chain kode ishobora gushirwa mu ngiro
-  - Ishami rya DAG rya kahise kuko bihinduka
-explanation: |
-  "Insiguro ya Serire" ihuza UTXO n'igice kinaka c'Uko Amasezerano ameze, igatanga icemezo c'ugutanga neza uburenganzira canke umutungo.
-reviewed: true

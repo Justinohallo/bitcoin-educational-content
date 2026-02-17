@@ -1,9 +1,0 @@
-question: ¿Qué mecanismo de RGB permite agrupar varias transiciones en una única transacción de Bitcoin?
-answer: Transition Bundle
-wrong_answers:
-  - Seal Aggregation
-  - Multi-Commitment Tree
-  - State Consolidation
-explanation: |
-  Un Transition Bundle es un conjunto de State Transitions de RGB (pertenecientes al mismo contrato) que están todas implicadas en la misma witness transaction de Bitcoin.
-reviewed: false

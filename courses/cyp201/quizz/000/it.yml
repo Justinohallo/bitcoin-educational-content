@@ -1,9 +1,0 @@
-question: Qual è lo scopo principale di una funzione hash?
-answer: Convertire informazioni di lunghezza arbitraria in un'impronta digitale di dimensione fissa
-wrong_answers:
-  - Cifrare i messaggi per renderli illeggibili
-  - È usata solo per verificare l'integrità del software Bitcoin
-  - Generare chiavi private per i wallet Bitcoin
-explanation: |
-  Una funzione hash trasforma dati di qualsiasi dimensione in un hash di dimensione fissa, cruciale per molte applicazioni in Bitcoin.
-reviewed: false

@@ -1,9 +1,0 @@
-question: Welche Komponenten enthält ein RGB-Consignment, das Bob (Empfänger) für einen (neuen) Vertrag erhält?
-answer: Genesis, Schema, Schnittstelle und Schnittstellenimplementierung
-wrong_answers:
-  - Genesis, Schema, Übergang und Zustandserweiterung
-  - Schema, Schnittstelle, Signatur und PSBT
-  - Genesis, Schnittstelle, PSBT und Historie
-explanation: |
-  Das Consignment eines RGB-Vertrags umfasst die Genesis, das Schema, die Schnittstelle und die Schnittstellenimplementierung, die alle für die Validierung des Vertrags erforderlichen Daten enthalten.
-reviewed: false

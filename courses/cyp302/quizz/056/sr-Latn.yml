@@ -1,9 +1,0 @@
-question: Koja vrsta algebarske strukture je osnova apstraktne algebre?
-answer: Grupa
-wrong_answers:
-  - Polje
-  - Prsten
-  - Matrica
-explanation: |
-  Grupa je fundamentalna algebarska struktura na kojoj se zasniva apstraktna algebra, definisana skupom elemenata i binarnom operacijom koja poštuje određena svojstva.
-reviewed: true

@@ -1,9 +1,0 @@
-question: Wat is de naam van het cryptografische algoritme dat in Silent Payments wordt gebruikt om een gedeeld geheim vast te stellen tussen de ontvanger en de betaler?
-answer: ECDH
-wrong_answers:
-  - RSA
-  - DH
-  - SHA256
-explanation: |
-  Het ECDH-algoritme (Elliptic-Curve Diffie-Hellman) wordt bij Silent Payments gebruikt om een gedeeld geheim vast te stellen tussen het scansleutelpaar van de ontvanger en de som van het sleutelpaar van de verzender. Dit gedeelde geheim maakt het mogelijk om het unieke betaalsadres af te leiden.
-reviewed: false

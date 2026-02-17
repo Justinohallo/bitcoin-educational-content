@@ -1,9 +1,0 @@
-question: Ni akahe kamaro k'aho ibintu bishirirwa mungiro munyubako za  RGB?
-answer: Ikarata y’ibibanza vy'igicapo ku mazina asigura ahakorerwa ibintu.
-wrong_answers:
-  - Gukoranya inyandiko za AluVM kugira ngo zizemezwe
-  - Gusigura ukobimeze muri rusangi n'uko amasezerano afashwe muminwe ameze.
-  - Kubika ivyemeza vyomubuhinga bunyegeza inyandiko zokuruhande rw'umuguzi
-explanation: |
-  Uruhande rw'ugushira mungiro rushiraho ihuza igicapo n'uko ishoramari rimeze n'ivyo Ahakorerwa ibintu hashobora gusoma.
-reviewed: true

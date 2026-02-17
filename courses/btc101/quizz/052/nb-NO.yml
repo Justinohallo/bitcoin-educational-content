@@ -1,9 +1,0 @@
-question: Hvilken av følgende er ikke en Bitcoin-egenskap?
-answer: Den blir lett sensurert.
-wrong_answers:
-  - Den kan overføres umiddelbart.
-  - Den har ubetydelige verifiseringskostnader.
-  - Den har en fast pengepolitikk.
-explanation: |
-  Bitcoin har alle nødvendige egenskaper for å være en effektiv og sunn valuta: delbar, umiddelbart overførbar, sensurresistent, ubetydelige verifiseringskostnader, og med en pengepolitikk som allerede er satt for århundrer fremover med 21 millioner enheter.
-reviewed: true

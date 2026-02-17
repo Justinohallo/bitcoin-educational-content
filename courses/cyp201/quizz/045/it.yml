@@ -1,9 +1,0 @@
-question: Qual è la funzione hash utilizzata per calcolare il checksum di una frase mnemonica?
-answer: SHA256
-wrong_answers:
-  - RIPEMD160
-  - SHA512
-  - HASH256
-explanation: |
-  Il checksum di una frase mnemonica viene calcolato applicando all'entropia un semplice hash SHA256.
-reviewed: false

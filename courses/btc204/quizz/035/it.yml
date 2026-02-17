@@ -1,9 +1,0 @@
-question: Chi ha scoperto l'euristica del riutilizzo degli indirizzi?
-answer: Satoshi Nakamoto
-wrong_answers:
-  - Vitalik Buterin
-  - Hal Finney
-  - Gavin Andresen
-explanation: |
-  La prima persona a discutere questo concetto è stata Satoshi Nakamoto nella parte 10 del White Paper di Bitcoin.
-reviewed: false

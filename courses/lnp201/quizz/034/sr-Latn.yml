@@ -1,9 +1,0 @@
-question: Koje informacije čvor pošiljalac mora znati da bi izvršio plaćanje putem onion rutiranja?
-answer: Topologiju mreže i kompletnu rutu do primaoca
-wrong_answers:
-  - Samo sledeći međučvor
-  - Kapacitet svakog kanala
-  - Kriptografski potpis svakog čvora na putanji
-explanation: |
-  Čvor koji šalje mora znati topologiju mreže kako bi izračunao putanju do primaoca, omogućavajući mu da izabere najbolji put.
-reviewed: true

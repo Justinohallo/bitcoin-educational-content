@@ -1,8 +1,0 @@
-question: Co to jest dowód pracy?
-answer: Konsensus bezpieczeństwa protokołu Bitcoin.
-wrong_answers:
-  - Proces tworzenia nowych bitcoinów.
-  - Metoda weryfikacji transakcji Bitcoin.
-  - Algorytm używany do wydobywania bitcoinów.
-explanation: >-
-reviewed: true

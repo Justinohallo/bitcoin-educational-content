@@ -1,8 +1,0 @@
-question: 2010 年，哪位德国矿工在几个月内掌控了比特币网络约 20% 的算力？
-answer: ArtForz
-wrong_answers:
-  - tcatm
-  - m0mchil
-  - knightmb
-explanation:
-  2010 年夏天，ArtForz 建立了一个由显卡组成的挖矿农场（称为 “ArtFarm”），因此到了秋天，他在算力上已经显著领先于其他矿工。

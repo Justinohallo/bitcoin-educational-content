@@ -1,9 +1,0 @@
-question: Kiedy kanał Lightning jest oficjalnie otwarty?
-answer: Gdy transakcja wpłaty zostanie potwierdzona w łańcuchu bloków Bitcoina
-wrong_answers:
-  - Gdy tylko klucze publiczne zostaną wymienione między uczestnikami
-  - Gdy transakcja wypłaty zostanie podpisana przez obie strony
-  - Po utworzeniu adresu wielopodpisowego 2/2
-explanation: |
-  Kanał uznaje się za otwarty, gdy transakcja depozytu zostanie uwzględniona w bloku Bitcoina i osiągnie określoną liczbę potwierdzeń.
-reviewed: true

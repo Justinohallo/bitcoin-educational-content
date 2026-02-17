@@ -1,9 +1,0 @@
-question: ¿Cómo allana RGB el camino a la DEX layer-2?
-answer: Al permitir el intercambio de activos off-chain a través de canales Lightning y swaps atómicos
-wrong_answers:
-  - Al permitir el uso de una bolsa centralizada para todas las transacciones RGB
-  - Al permitir el intercambio de activos a través de smart contracts on-chain
-  - Al permitir el intercambio de activos entre blockchains mediante swaps atómicos
-explanation: |
-  La posibilidad de realizar swaps atómicos e intercambios a través de canales de Lightning ofrece la posibilidad de crear DEX descentralizadas, sin las desventajas de los intercambios on-chain.
-reviewed: false

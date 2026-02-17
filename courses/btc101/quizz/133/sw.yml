@@ -1,9 +1,0 @@
-question: Je, ni ukubwa gani wa sasa wa Bitcoin Blockchain?
-answer: Karibu 660GB
-wrong_answers:
-  - Karibu 110GB
-  - Karibu 1TB
-  - Karibu 2TB
-explanation: |
-  Bitcoin Blockchain ina ukubwa wa takriban 660GB kufikia 2025.
-reviewed: true

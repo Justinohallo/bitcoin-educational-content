@@ -1,9 +1,0 @@
-question: Kakav je potencijalni uticaj zabrane rudarenja u regionu?
-answer: To može dovesti do značajnog pada Hashrate i cene Bitcoina
-wrong_answers:
-  - To može dovesti do povećanja cene Bitcoina
-  - To može dovesti do povećanja Hashrate mreže.
-  - To može dovesti do povećanja broja aktivnih čvorova u mreži
-explanation: |
-  Zabrana rudarenja u nekoj regiji, kao što se desilo u Kini, može dovesti do značajnog pada Hashrate i cene Bitcoina. Međutim, ovi se mogu brzo oporaviti.
-reviewed: true

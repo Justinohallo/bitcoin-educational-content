@@ -1,9 +1,0 @@
-question: Šta omogućava protokol Diffie-Hellman za razmenu ključa?
-answer: Omogućava dvema stranama da kreiraju zajednički tajni ključ deljenjem javnih informacija.
-wrong_answers:
-  - Omogućava razmenu tajnog ključa uživo (ličnim prisustvom) za svaku sesiju.
-  - Omogućava korišćenje javnog ključa za enkripciju i privatnog ključa za dekripciju.
-  - Omogućava razmenu elektronske valute.
-explanation: |
-  Diffie-Hellman protokol omogućava dvema stranama da javno dele informacije, dok osigurava da samo one mogu generisati zajednički ključ za osiguranje svojih budućih razmena.
-reviewed: true

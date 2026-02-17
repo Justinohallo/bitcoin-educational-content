@@ -1,9 +1,0 @@
-question: Dlaczego sprzedawca może chcieć dokonać fikcyjnej płatności w kanale?
-answer: Aby przenieść płynność na przeciwną stronę
-wrong_answers:
-  - Aby zmniejszyć opłaty za routing
-  - Aby zwiększyć całkowitą przepustowość kanałów
-  - Aby zablokować środki w perspektywie długoterminowej
-explanation: |
-  Dokonując fikcyjnej płatności, sprzedawca przenosi płynność ze swojej strony na przeciwną stronę kanału, uwalniając w ten sposób swoją zdolność do otrzymywania płatności.
-reviewed: true

@@ -1,8 +1,0 @@
-question: Millal on Lightning kanal ametlikult avatud?
-answer: Kui deposiidi tehing on kinnitatud Bitcoin'i plokiahelas
-wrong_answers:
-  - Kohe, kui osalejate vahel on vahetatud avalikud võtmed
-  - Kui väljavõtte tehing on mõlema poole poolt allkirjastatud
-  - Kohe, kui on loodud 2/2 multisignatuuriga aadress
-explanation: |
-  Kanalit peetakse avatuks, kui deposiidi tehing on lisatud Bitcoin'i plokki ja on saavutanud teatud arvu kinnitusi.

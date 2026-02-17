@@ -1,9 +1,0 @@
-question: Alice (uwurungitse) akwiye gukora iki amaze kwakira Fagitire ya Bob?
-answer: Ubaka PSBT ifise UTXO yayo hama ukore irungikwa rifse aho rigarukira
-wrong_answers:
-  - Tera umukono kw'irungikwa rya Bitcoin rikoresha UTXO yaco Ririmwo Serire ikoreshwa rimwe.
-  - Injira Irungikwa mungodo yawe kumakuru yerekeye amasezerano
-  - Gutanga Fagitire nshasha ku kibazo c'umutungo
-explanation: |
-  Alice itegerezwa gukora PSBT kugira ngo akoreshe UTXO ijana n'umutungo, hanyuma agakora irungikwa ryanyuma ririmwo ihanahanwa rishasha rya Bob.
-reviewed: true

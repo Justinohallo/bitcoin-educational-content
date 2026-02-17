@@ -1,9 +1,0 @@
-question: Kakvu ulogu ima vremensko zaključavanje u radu HTLC-ova?
-answer: Pruža vremenski okvir za završetak plaćanja pre otkazivanja.
-wrong_answers:
-  - Povećava kapacitet korišćenog kanala
-  - Dodaje sloj privatnosti transakciji
-  - Primjenjuje dodatne naknade za svaki posrednički čvor
-explanation: |
-  Vremensko zaključavanje nameće vremenski okvir za završetak HTLC-a, što omogućava povrat sredstava ako transakcija ne uspe, otkazivanjem plaćanja nakon ovog perioda.
-reviewed: true

@@ -1,9 +1,0 @@
-question: U Lightning fakturi, šta znači prefiks lnbc u delu koji je čitljiv ljudima?
-answer: To ukazuje na Lightning transakciju na Bitcoin Blockchain-u
-wrong_answers:
-  - Da je faktura važeća samo na Bitcoin Testnet-u
-  - Da je faktura kodirana u bech32
-  - Da je to On-Chain transakcija
-explanation: |
-  Prefiks lnbc označava da je faktura namenjena za Lightning transakciju na Bitcoin mreži, a ne na nekoj drugoj mreži.
-reviewed: true

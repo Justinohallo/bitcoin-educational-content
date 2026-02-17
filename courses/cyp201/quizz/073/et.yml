@@ -1,9 +1,0 @@
-question: Milline indeks esindab konto välist ahelat tuletusteel?
-answer: /0/
-wrong_answers:
-  - /1/
-  - /0'/
-  - /2/
-explanation: |
-  Väline ahel on määratletud indeksiga /0/ tuletustee neljandal tasemel.
-reviewed: false

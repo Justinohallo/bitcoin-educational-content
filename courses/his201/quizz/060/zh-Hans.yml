@@ -1,8 +1,0 @@
-question: 谁建立了第一个比特币矿池来生产比特币上的区块？
-answer: doublec
-wrong_answers:
-  - slush
-  - puddinpop
-  - m0mchil
-explanation:
-  他在 2010 年 12 月 1 日推广了这个挖矿社区，并在 12 月 4 日成功挖出了一个区块。相比之下，Slush 的矿池是在 12 月 16 日才启动的。

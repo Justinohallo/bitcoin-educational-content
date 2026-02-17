@@ -1,9 +1,0 @@
-question: インプットに単一のUTXOがあり、アウトプットに単一のUTXOを持つパターンは何ですか？
-answer: スイープ（Sweeping）
-wrong_answers:
-  - コンソリデーション（Consolidation）
-  - コインジョイン（Coinjoin）
-  - バッチスペンディング（Batch spending）
-explanation: |
-  この構造の解釈は、ビットコインの自己転送、つまりスイープ（Sweep）の存在を意味しています。
-reviewed: false

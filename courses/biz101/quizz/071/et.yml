@@ -1,9 +1,0 @@
-question: Millist rolli täidab LSP ettevõtte Bitcoini maksetes?
-answer: Suure mahuga tehingute haldamine Lightningi abil
-wrong_answers:
-  - Salvesta Lightning rahakoti privaatvõtmed
-  - Lightning arvete printimine
-  - Toetuste käsitsi töötlemine Lightning'is
-explanation: |
-  LSPd tegelevad Lightningi keeruliste ja suure mahuga operatsioonidega.
-reviewed: false

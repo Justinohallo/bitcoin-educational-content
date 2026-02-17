@@ -1,8 +1,0 @@
-question: Jaki jest cel dostosowania poziomu trudności w wydobywaniu bitcoinów?
-answer: Przywraca równowagę globalnej gry wydobywczej w oparciu o liczbę uczestników.
-wrong_answers:
-  - Zwiększa nagrodę za wydobycie.
-  - Zmniejsza liczbę bitcoinów w obiegu.
-  - Zwiększa bezpieczeństwo sieci Bitcoin.
-explanation: >-
-reviewed: true

@@ -1,9 +1,0 @@
-question: Na co pozwala sieć Lightning w porównaniu do tradycyjnych transakcji w łańcuchu bloków Bitcoina?
-answer: Szybkie transakcje z minimalnymi opłatami
-wrong_answers:
-  - Anonimowe i niemożliwe do śledzenia transakcje
-  - Transakcje w dużych ilościach bez limitów ilościowych
-  - Transakcje między różnymi łańcuchami bloków
-explanation: |
-  Sieć Lightning umożliwia szybkie i tanie transakcje za pośrednictwem kanałów płatności off-chain, które różnią się od zwykłych transakcji w łańcuchu bloków.
-reviewed: true

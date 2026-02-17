@@ -1,9 +1,0 @@
-question: Mis eristab standardpikkusega RC4 võtmehoidla voogu lihtsustatud versioonist, mis on näites esitatud?
-answer: Standardse RC4 S-massiivi pikkus on 256 baiti
-wrong_answers:
-  - S-massiiv on piiratud 128 baidiga
-  - Kasutatav võti peab olema rohkem kui 8 baiti
-  - Standardse RC4 puhul ei ole S-l fikseeritud pikkust
-explanation: |
-  Standardse RC4 puhul sisaldab S-massiiv 256 baiti, mis oluliselt suurendab arvutuste keerukust ja parandab turvalisust võrreldes lihtsustatud versiooniga, mis sisaldab ainult 8 baiti.
-reviewed: false

@@ -1,9 +1,0 @@
-question: Co si musí uživatelé uložit, aby své bitcoiny skutečně vlastnili?
-answer: Soukromé klíče
-wrong_answers:
-  - Příjem adres
-  - Hesla platformy Exchange
-  - Bloky Blockchain
-explanation: |
-  Bez držení soukromých klíčů své bitcoiny skutečně nevlastníte.
-reviewed: false

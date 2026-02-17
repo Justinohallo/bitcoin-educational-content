@@ -1,9 +1,0 @@
-question: Kako se blok šifra može transformisati u šifru toka?
-answer: Korišćenjem režima kao što je OFB koji generiše ključni tok (eng. keystream) iz blok šifre
-wrong_answers:
-  - Deljenjem otvorenog teksta na bajtove i šifrovanjem svakog ponaosob
-  - Dodavanjem popune porukama pre šifrovanja
-  - Povećanjem dužine ključa za svaki šifrovani blok
-explanation: |
-  Režimi kao što je OFB omogućavaju blok šifri da deluje kao strim šifra generisanjem ključnog toka (eng. keystream), koji se zatim koristi za svaki deo otvorenog teksta.
-reviewed: true

@@ -1,9 +1,0 @@
-question: Muri RGB, nihe hari ukwiyemeza mugihe Serire ikoreshwa rimwe yugawe ?
-answer: Mu gisohoka mw'ihanahanwa gikoresha igisohoka
-wrong_answers:
-  - Mu kwinjiza kw'ugucuruza gukoresha agace gasohoka
-  - Mu nyandiko za Sig z'ihanahanwa zikoresha agace gasohoka
-  - Mu Cabona c’ihanahanwa gikoresha agace gasohoka
-explanation: |
-  Ukwiyemeza gushirwa mugace gasohoka mw'ihanahanwa yinjizwa mu gisohoka gisigura Serire ikoreshwa rimwe.
-reviewed: true

@@ -1,9 +1,0 @@
-question: Wat is het privacymodel van het Bitcoin systeem?
-answer: Transacties zijn openbaar, maar de identiteit van de gebruikers is niet bekend.
-wrong_answers:
-  - Alleen Satoshi Nakamoto heeft toegang tot de transactiegegevens.
-  - Transacties zijn versleuteld en onzichtbaar op het netwerk.
-  - Alleen overheden hebben toegang tot de transactiegegevens.
-explanation: |
-  Bij Bitcoin kan de informatiestroom tussen de transacties en het publieke domein niet worden verbroken. Het privacymodel berust op de scheiding tussen de identiteit van de gebruiker en de transacties.
-reviewed: false

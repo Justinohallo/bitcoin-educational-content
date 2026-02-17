@@ -1,9 +1,0 @@
-question: Was ist die Hauptfunktion einer Währung?
-answer: Als Vermittler zu fungieren, welche den Austausch von Werten vereinfacht
-wrong_answers:
-  - Speicherung des intrinsischen Wertes in physischer Form
-  - Vollständiger Ersatz des Tauschhandels durch einen direkten Austausch von Waren gegen Waren
-  - Zentralisierung aller wirtschaftlichen Transaktionen durch eine einzige Behörde
-explanation: |
-  Die Währung vereinfacht den Handel, indem sie als gemeinsames Medium dient, welche das komplizierte Geflecht von Wechselkursen, das in einem Tauschsystem erforderlich ist, reduziert und so leichtere Transaktionen ermöglicht.
-reviewed: true

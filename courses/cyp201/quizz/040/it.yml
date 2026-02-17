@@ -1,9 +1,0 @@
-question: Perché è rischioso generare manualmente l'entropia per un wallet HD?
-answer: Perché può introdurre debolezze umane o scelte prevedibili
-wrong_answers:
-  - Perché risulta in chiavi pubbliche non valide
-  - Perché blocca la derivazione delle chiavi private
-  - Perché limita la dimensione delle frasi mnemoniche generate
-explanation: |
-  Generare manualmente l'entropia può introdurre scelte prevedibili o errori, rendendo le chiavi più vulnerabili agli attacchi.
-recensito: false

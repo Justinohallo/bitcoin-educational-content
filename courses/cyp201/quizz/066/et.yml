@@ -1,9 +1,0 @@
-question: Millist osa HMAC-SHA512 väljundist kasutatakse lapse ahelakoodina?
-answer: Viimased 32 baiti
-wrong_answers:
-  - Esimesed 32 baiti
-  - Kogu 64 baiti
-  - Keskmise 32 baiti SHA256 räsi
-explanation: |
-  HMAC-SHA512 väljundi viimased 32 baiti toimivad lapse võtme ahelakoodina.
-reviewed: false

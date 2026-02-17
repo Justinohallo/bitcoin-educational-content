@@ -1,9 +1,0 @@
-question: Co może zrobić Bob, jeśli podczas zamykania kanału wykryje próbę oszustwa ze strony Alicji?
-answer: Może użyć klucza odwołania, aby odzyskać wszystkie środki
-wrong_answers:
-  - Może anulować transakcję zobowiązującą Alicji
-  - Może trwale zamknąć kanału bez możliwości ponownego otwarcia
-  - Może ubiegać się o zwrot tylko połowy dostępnych środków
-explanation: |
-  W przypadku oszustwa Bob może użyć klucza odwołania, aby odzyskać wszystkie środki z kanału, tym samym karząc Alicję za jej próbę oszustwa.
-reviewed: true

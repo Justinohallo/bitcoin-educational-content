@@ -1,9 +1,0 @@
-question: In welchem Jahr wurde die asymmetrische Kryptografie offiziell entdeckt?
-answer: 1976
-wrong_answers:
-  - 1676
-  - 1776
-  - 1876
-explanation: |
-  Sie wurde von Whitfield Diffie und Martin Hellman, zwei Kryptografen der Stanford University, in einem im November 1976 veröffentlichten Papier vorgestellt.
-reviewed: true

@@ -1,9 +1,0 @@
-question: Ni ayahe masezerano y'ibikorwa vya RGB akora uko ibintu bimeze atiriwe arugara Serire ?
-answer: Uko ivyoyongerako imeze.
-wrong_answers:
-  - Ivyoyongerako uko bimeze.
-  - Itanguriro
-  - Ukwemeza Valency
-explanation: |
-  Uko ivyoyengerako bimeze bishobora gufasha gukora uko bimeze canke amategeko mashasha (Valencias), Serire itiriwe irugara vuba bwango.
-reviewed: true

@@ -1,9 +1,0 @@
-question: U konačnom polju, koja je uloga ireducibilnog polinoma?
-answer: Definiše operacije množenja u polju
-wrong_answers:
-  - Definišie aditivni inverz svakog elementa
-  - Osigura zatvaranje polja
-  - Odredjuje multiplikativni identitet
-explanation: |
-  Ireducibilni polinomi se koriste za strukturiranje množenja u konačnim poljima, osiguravajući da svaki element ostane unutar polja.
-reviewed: true

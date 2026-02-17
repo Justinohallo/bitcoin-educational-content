@@ -1,9 +1,0 @@
-question: Was bedeutet der "RGB-Zustandsübergang" im Zusammenhang mit dem Lightning Netwerk?
-answer: Aktualisierte RGB-Vermögensallokation werden in die Commitment-Transaktionen integriert
-wrong_answers:
-  - Ein neuer Stand des on-chain m2/2 MultiSig wird erzeugt
-  - Aktualisierte RGB-Asset-Allokation wird in die Finanzierungs-Transaktion integriert
-  - Skript zur On-Chain-Validierung wird durch HTLC ersetzt
-explanation: |
-  Der RGB-Zustandsübergang aktualisiert die Verteilung der RGB-Assets im Kanal mit Hilfe von Commitment-Transaktionen.
-reviewed: false

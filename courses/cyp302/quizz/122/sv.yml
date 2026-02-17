@@ -1,9 +1,0 @@
-question: Vad är nyckelfördelningsproblemet?
-answer: Utmaningen med att överföra nycklar på ett säkert sätt utan fysisk Exchange
-wrong_answers:
-  - Nödvändigheten att generate flera nyckelpar per klient
-  - Svårigheten att säkra fysisk förvaring av nycklar
-  - Skyldighet att byta nycklar vid varje kommunikation
-explanation: |
-  Problemet med nyckeldistribution handlar om att överföra nycklar på ett säkert sätt, en nödvändighet som har blivit avgörande i digital kommunikation där en fysisk Exchange är opraktisk.
-reviewed: false

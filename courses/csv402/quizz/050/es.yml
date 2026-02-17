@@ -1,9 +1,0 @@
-question: ¿Cómo se utilizan los commitments criptográficos (mediante Taproot u OP_RETURN) en RGB?
-answer: Anclan las transiciones de estado en la blockchain
-wrong_answers:
-  - Almacenan los datos del contrato en la blockchain
-  - Sustituyen la client-side validation por la ejecución de smart contracts on-chain
-  - Crean nodos para verificar las transacciones
-explanation: |
-  Los commitments permiten vincular de forma segura las actualizaciones de estado a un UTXO, con el fin de demostrar la existencia de una determinada información en un momento dado, sin revelar la información en sí.
-reviewed: false

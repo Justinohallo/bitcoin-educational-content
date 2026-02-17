@@ -1,9 +1,0 @@
-question: Jaki jest główny cel sieci Lightning?
-answer: Poprawa skalowalności Bitcoina w celu umożliwienia szybkich i tanich płatności
-wrong_answers:
-  - Eliminacja opłat transakcyjnych w łańcuchu bloków Bitcoina
-  - Stworzenie alternatywy w Bitcoinie dla płatności o wysokiej wartości
-  - Uproszczenie wymiany między różnymi kryptowalutami
-explanation: |
-  Sieć Lightning ma na celu zwiększenie skalowalności Bitcoina poprzez umożliwienie szybkich i niedrogich transakcji za pośrednictwem kanałów płatności off-chain.
-reviewed: true

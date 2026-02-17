@@ -1,9 +1,0 @@
-question: Nigute RGB yirinda ukuriha kabiri mugihe c'impinduka ?
-answer: Kwugara Serire isanzwe ihari hama ugakora nshsasha
-wrong_answers:
-  - Mu gususzuma amahanahana yose kuri Blockchain.
-  - Mu gushinga imikono ya multi-sig ku gikorwa cose
-  - Kwemeza amakuru yuko bimeze muri rusangi
-explanation: |
-  Kwugara Serire hamwe n'iyemeza ry'irungika ry UTXO  yuko ihinduka ari rimwe kandi ridasubirizwa.
-reviewed: true

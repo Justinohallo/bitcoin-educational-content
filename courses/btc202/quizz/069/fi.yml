@@ -1,9 +1,0 @@
-question: Mikä on suurin riski, joka aiheutuu Dust:n kertymisestä mini-PC:hen?
-answer: Prosessorin kuristaminen
-wrong_answers:
-  - Blockchain-lohkon poisto
-  - Levyn korruptoituminen
-  - Vähentynyt RAM-kapasiteetti
-explanation: |
-  Dust estää ilmanvaihdon, aiheuttaa ylikuumenemista ja johtaa prosessorin tehoa heikentävään kuristamiseen.
-reviewed: true

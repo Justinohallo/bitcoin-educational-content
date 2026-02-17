@@ -1,9 +1,0 @@
-question: Apa risiko utama yang ditimbulkan oleh akumulasi debu di mini-PC Anda?
-answer: Pelambatan prosesor
-wrong_answers:
-  - Penghapusan blok Blockchain
-  - Kerusakan disk
-  - Kapasitas RAM berkurang
-explanation: |
-  Debu menghalangi ventilasi, menyebabkan panas berlebih, dan menyebabkan pelambatan, sehingga mengurangi efisiensi prosesor.
-reviewed: true

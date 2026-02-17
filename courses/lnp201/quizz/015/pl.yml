@@ -1,9 +1,0 @@
-question: Co odzwierciedla transakcję zobowiązującą w kanale Lightning?
-answer: Nowy podział środków między obiema stronami
-wrong_answers:
-  - Całkowita liczba dokonanych transakcji
-  - Kwota opłat należnych za transakcję
-  - Otwarcie nowego kanału płatności
-explanation: |
-  Transkacja zobowiązująca przedstawia bieżącą dystrybucję środków w kanale po każdej transakcji Lightning, ale nie jest publikowana w łańcuchu bloków, dopóki kanał pozostaje otwarty.
-reviewed: true

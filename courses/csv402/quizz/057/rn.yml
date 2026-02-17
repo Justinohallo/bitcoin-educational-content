@@ -1,9 +1,0 @@
-question: Ku RLN, ni itegeko irihe rishiramwo "RGB-lightning-node" inyuma yo gukora cloning y'ububiko?
-answer: "Igikoresho co gushiramwo --kifunze --gukosora --inzira ."
-wrong_answers:
-  - "cargo build --release --path ."
-  - "cargo run --locked --path ."
-  -  "cargo deploy --debug --path ."
-explanation: |
-  "cargo install --locked --debug --path ." itegeko rikoranya kandi rishiraho "RGB-umuravyo-node" bibiri.
-reviewed: true

@@ -1,8 +1,0 @@
-question: Czym jest prędkość haszowania?
-answer: Liczbą obliczeń haszy, które urządzenie wydobywcze może wykonać na sekundę w celu rozwiązania dowodu pracy.
-wrong_answers:
-  - Szybkością, z jaką urządzenie wydobywcze może rozwiązać dowód pracy.
-  - Całkowitą liczbą górników w sieci Bitcoin.
-  - Całkowitą ilością bitcoinów wydobytych poprzez wykonanie określonej liczby prób na sekundę w celu rozwiązania dowodu pracy.
-explanation: >-
-reviewed: true

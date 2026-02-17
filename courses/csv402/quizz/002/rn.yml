@@ -1,9 +1,0 @@
-question: Mu ngorane zitatu za CAP, ni igiki gihuza hagati y’ukwemezwa ku ruhande rw’umukiriya hamwe n'ukuboneka?
-answer: Buri uwuyikoresha wese ategezwa kubika amakuru ngirakamara mububiko bwiwe
-wrong_answers:
-  - Amakuru ni aya bose kandi yisubirwamwo kuri bose
-  - Ukugumizako kuritanga kugira  ngo biboneke
-  - Uko bihinduka imisi yose birashirwa ahabona kuri Lightning .
-explanation: |
-  Mukwemeza kuruhande rw'umukiriya, ukuboneka kuri bose imisi yose ntigutegerezwa, kuko abayikoresha bategerezwa gukoresha amakuru yabo bwite.
-reviewed: true

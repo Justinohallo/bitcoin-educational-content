@@ -1,9 +1,0 @@
-question: Quale soluzione è consigliata per un hodler per conservare Bitcoin?
-answer: Un Hardware Wallet
-wrong_answers:
-  - Un Hot Wallet
-  - Un servizio custodial
-  - Un Paper Wallet
-explanation: |
-  Un hodler, che detiene bitcoin a lungo termine, dovrebbe utilizzare un Hardware Wallet per massimizzare la sicurezza.
-reviewed: true

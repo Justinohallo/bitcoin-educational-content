@@ -1,9 +1,0 @@
-question: Kiedy transakcja zobowiązująca jest publikowana w łańcuchu bloków Bitcoina?
-answer: Ostatecznie, gdy kanał jest zamknięty
-wrong_answers:
-  - Natychmiast po każdym transferze w kanale
-  - Przed każdą nową transakcją zobowiązującą
-  - Po wyczerpaniu dostępnych środków
-explanation: |
-  Transakcje zobowiązujące są tworzone i podpisywane dla każdej zmiany alokacji środków, ale są one ostatecznie publikowane w łańcuchu bloków tylko w przypadku zamknięcia kanału.
-reviewed: true

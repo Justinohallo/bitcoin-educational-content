@@ -1,9 +1,0 @@
-question: Wo ist bei RGB das Commitment, wenn ein Single-use Seal geschlossen wird?
-answer: Im Output der Transaktion, die den Outpoint ausgibt
-wrong_answers:
-  - Im Input der Transaktion, die den Outpoint ausgibt
-  - Im scriptSig der Transaktion, die den Outpoint ausgibt
-  - In den Zeugen(Witness)-Daten der Transaktion gibt den Outpoint ausgibt
-explanation: |
-  Das Commitment wird in den Output der Transaktion eingefügt, die den Outpoint (aus der Definition des Single-use Seals) ausgibt.
-reviewed: false

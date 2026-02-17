@@ -1,9 +1,0 @@
-question: Zašto se lozinke često čuvaju kao heševi na sigurnim serverima?
-answer: Da bi se sprečilo lako preuzimanje lozinki u slučaju curenja podataka
-wrong_answers:
-  - Da bi se povećala veličina skladišta korisničkih podataka
-  - Da se šifruju lozinke u realnom vremenu na simetričan način
-  - Da bi se korisnicima omogućilo prijavljivanje bez lozinke
-explanation: |
-  Čuvanjem hešova lozinki, čak i u slučaju proboja podataka, stvarne lozinke ne mogu biti direktno pročitane, čime se povećava sigurnost.
-reviewed: true

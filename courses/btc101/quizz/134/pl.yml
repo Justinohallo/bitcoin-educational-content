@@ -1,9 +1,0 @@
-question: Jaki jest koszt uruchomienia węzła Bitcoin na Raspberry Pi 4 pod względem zużycia energii elektrycznej rocznie (stan na 2023 r.)?
-answer: Nieco mniej niż 10 € rocznie.
-wrong_answers:
-  - Nieco ponad 50 euro rocznie.
-  - Nieco mniej niż 100 euro rocznie.
-  - Około 200 € rocznie.
-explanation: |
-  Pod względem zużycia energii elektrycznej uruchomienie węzła Bitcoin na Raspberry Pi 4 kosztuje nieco mniej niż 10 € rocznie (2023 r.).
-reviewed: true

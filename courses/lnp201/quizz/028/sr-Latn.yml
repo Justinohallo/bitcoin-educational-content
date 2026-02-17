@@ -1,9 +1,0 @@
-question: Šta Bob može da uradi ako otkrije pokušaj od strane Alise da vara tokom zatvaranja kanala?
-answer: Može koristiti ključ za opoziv da povrati sva sredstva
-wrong_answers:
-  - Može otkazati Alisinu obavezujuću transakciju
-  - Može trajno zatvoriti kanal bez mogućnosti ponovnog otvaranja.
-  - Može da zatraži samo polovinu dostupnih sredstava
-explanation: |
-  U slučaju varanja, Bob može koristiti ključ za opoziv da povrati sva sredstva iz kanala, čime kažnjava Alisu za njen pokušaj.
-reviewed: true

@@ -1,9 +1,0 @@
-question: Was ist der Hauptzweck der deterministischen Bitcoin-Commitments?
-answer: Sicherstellen, dass ein einziges Commitment in eine Transaktion eingefügt wird
-wrong_answers:
-  - Vereinfachung der Struktur von Bitcoin-Transaktionen
-  - Reduktion der RGB-Transaktionskosten
-  - Optimierung der Erzeugung von RGB-MultiSigs
-explanation: |
-  Deterministische Bitcoin-Commitments garantieren, dass nur ein einziges Commitment in eine Transaktion eingefügt wird, um versteckt konkurrierende Commitments zu vermeiden.
-reviewed: false

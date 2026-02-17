@@ -1,9 +1,0 @@
-question: Was ist eine Zuweisung im RGB-Protokoll?
-answer: Ein Output, der Eigenschaften im Zustand eines Vertrags ändert, aktualisiert oder erstellt
-wrong_answers:
-  - Ein einzigartiges kryptografisches Commitment, das in einer Bitcoin-Transaktion gespeichert ist
-  - Eine teilweise signierte Bitcoin-Transaktion vor der endgültigen Validierung
-  - Eine öffentliche Aktualisierung des Global State
-explanation: |
-  Eine Zuweisung kombiniert eine Siegeldefinition und einen Owned State, um einen zugewiesenen Teil des Zustands darzustellen.
-reviewed: false

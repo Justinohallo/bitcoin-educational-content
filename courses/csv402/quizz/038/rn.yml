@@ -1,9 +1,0 @@
-question: Muri dosiye ya YAML ikoreshwa mu gutanga umutungo, ni ikihe kibanza gisigura igitigiri cose c’amatoken yatanzwe?
-answer: Gutanga
-wrong_answers:
-  - Nyir'umutungo
-  - spec
-  - igitigiri
-explanation: |
-  "IssuedSupply" muri dosiye ya YAML isigiru igitigiri cose c'ibimenyetso vyasohowe kumasezerano.
-reviewed: true

@@ -1,9 +1,0 @@
-question: Qual è la massima emissione, approssimativa, di bitcoin che saranno in circolazione?
-answer: 21 milioni
-wrong_answers:
-  - 10 milioni
-  - 47 milioni
-  - 150 milioni
-explanation: |
-  Bitcoin è programmato per avere un'emissione limitata a circa 21 milioni di bitcoin.
-reviewed: true

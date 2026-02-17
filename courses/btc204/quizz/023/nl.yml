@@ -1,9 +1,0 @@
-question: Als we een transactie observeren met 6 input-UTXO's en slechts één output-UTXO, welke waarschijnlijke conclusie kunnen we dan trekken?
-answer: Alle input-UTXO's behoorden toe aan dezelfde gebruiker en deze gebruiker is nog steeds in het bezit van de output-UTXO.
-wrong_answers:
-  - De input-UTXO's waren afkomstig van verschillende gebruikers die samenwerkten voor een enkele transactie.
-  - Alle input-UTXO's waren van dezelfde gebruiker, en degene in de output is nu van een andere gebruiker.
-  - De input-UTXO's kwamen van 2 verschillende gebruikers, en degene in de output is nog steeds van deze 2 gebruikers.
-explanation: |
-  We bevinden ons waarschijnlijk in de aanwezigheid van een consolidatie. Daarom is er een gemeenschappelijke eigenaar van de inputs en de outputs.
-reviewed: false

@@ -1,9 +1,0 @@
-question: Jaka jest dostępność Bitcoina online od 2009 roku?
-answer: 99.988%.
-wrong_answers:
-  - 100%.
-  - 90.009%.
-  - 80.17%.
-explanation: |
-  Dostępność Bitcoina online od 2009 roku wynosi 99,988%.
-reviewed: true

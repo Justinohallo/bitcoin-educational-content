@@ -1,9 +1,0 @@
-question: Qual è il ruolo delle fee di routing in Lightning Network?
-answer: Incentivare i nodi intermedi a fornire la loro liquidità per il trasferimento dei pagamenti
-wrong_answers:
-  - Limitare il numero di transazioni sulla rete
-  - Garantire che ogni canale abbia fondi sufficienti
-  - Calcolare automaticamente il percorso più breve
-explanation: |
-  Le fee di routing sono utilizzate per compensare i nodi intermedi che inoltrano i pagamenti offrendo la loro liquidità. Questo meccanismo consente il trasferimento di fondi attraverso la rete.
-reviewed: true

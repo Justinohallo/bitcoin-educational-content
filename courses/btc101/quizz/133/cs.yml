@@ -1,9 +1,0 @@
-question: Jaká je aktuální velikost Bitcoin blockchainu?
-answer: Přibližně 660GB
-wrong_answers:
-  - Přibližně 110GB
-  - Přibližně 1TB
-  - Přibližně 2TB
-explanation: |
-  Velikost Bitcoin blockchainu je k roku 2025 přibližně 660GB.
-reviewed: true

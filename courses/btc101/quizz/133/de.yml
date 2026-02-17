@@ -1,9 +1,0 @@
-question: Wie groß ist die Bitcoin-Blockchain derzeit?
-answer: Ungefähr 660GB
-wrong_answers:
-  - Ungefähr 110GB
-  - Ungefähr 1TB
-  - Ungefähr 2TB
-explanation: |
-  Die Bitcoin-Blockchain ist Stand 2025 ungefähr 660GB groß.
-reviewed: true

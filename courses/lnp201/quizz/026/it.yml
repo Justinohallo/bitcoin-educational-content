@@ -1,9 +1,0 @@
-question: Quale metodo di chiusura del canale è il più economico e veloce?
-answer: Chiusura cooperativa
-wrong_answers:
-  - Chiusura forzata
-  - Chiusura con frode
-  - Nessuno è più economico e veloce
-explanation: |
-  La chiusura cooperativa è il metodo più veloce ed economico perché entrambe le parti concordano sulla chiusura del canale, adeguando le fee in base alle condizioni del momento.
-reviewed: true

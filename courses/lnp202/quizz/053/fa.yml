@@ -1,9 +1,0 @@
-question: پروتکل Tailscale بر چه اساسی است؟
-answer: WireGuard
-wrong_answers:
-  - اوپن‌وی‌پی‌ان
-  - IPsec IKEv2
-  - PPTP
-explanation: |
-  Tailscale یک راه‌حل VPN مبتنی بر WireGuard است.
-reviewed: false

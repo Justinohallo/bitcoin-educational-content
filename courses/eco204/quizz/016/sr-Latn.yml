@@ -1,9 +1,0 @@
-question: Koji je prag za hiperinflaciju prema definiciji Filipa Cagana?
-answer: Mesečna inflacija prelazi 50%
-wrong_answers:
-  - Mesečna inflacija prelazi 40%
-  - Mesečna inflacija prelazi 60%
-  - Mesečna inflacija prelazi 70%
-explanation: |
-  Prema definiciji Philipa Cagana, hiperinflacija počinje kada mesečna inflacija premaši 50%.
-reviewed: false

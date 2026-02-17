@@ -1,9 +1,0 @@
-question: Was ist ein wesentliches Merkmal der in RGB verwendeten Single-use Seals?
-answer: Sie können nur einmal geschlossen werden
-wrong_answers:
-  - Sie können nur zweimal geschlossen werden
-  - Sie garantieren die Vertraulichkeit der Transaktionen
-  - Sie beseitigen die Notwendigkeit eines Konsenses auf der Blockchain
-explanation: |
-  Single-use Seals ermöglichen die Erstellung eindeutiger kryptografischer Commitments und verhindern so Doppelausgaben.
-reviewed: false

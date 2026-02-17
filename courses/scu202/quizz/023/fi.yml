@@ -1,9 +1,0 @@
-question: Mitä grafiikkatyökalupakettia GNOME ja Xfce käyttävät?
-answer: GTK
-wrong_answers:
-  - Qt
-  - Tkinter
-  - Kuvio
-explanation: |
-  GNOME, Xfce, Cinnamon ja MATE perustuvat GTK:hon, joka on Linuxin graafisiin käyttöliittymiin tarkoitettu ohjelmistokirjasto.
-reviewed: false

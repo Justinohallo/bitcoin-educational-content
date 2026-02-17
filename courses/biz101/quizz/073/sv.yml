@@ -1,9 +1,0 @@
-question: Vad möjliggör datasynkronisering i realtid mellan Enterprise Bitcoin-system och ERP-programvara?
-answer: API:er
-wrong_answers:
-  - CSV-filer
-  - Batchuppladdningar
-  - E-postrapporter
-explanation: |
-  API:er möjliggör kontinuerlig integration i realtid.
-reviewed: false

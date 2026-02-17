@@ -1,9 +1,0 @@
-question: Millist võtit kasutatakse Bitcoinis UTXO-de lukustamiseks?
-answer: Avalik võti
-wrong_answers:
-  - Privaatvõti
-  - Seemne räsi
-  - Mnemooniline fraas
-explanation: |
-  UTXO-d lukustatakse avaliku võtmega või selle räsiga ning avatakse vastava privaatvõtmega.
-reviewed: false

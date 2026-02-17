@@ -1,9 +1,0 @@
-question: Welche Aktion führt Bob (Empfänger) aus, sobald er das Consignment von Alice (Zahler) erhält?
-answer: Gültigkeit des Zustandsübergangs prüfen und unterschreiben
-wrong_answers:
-  - Das Vertragsschema ändern und es an Alice senden
-  - Eine Rechnung für einen neuen Vorgang erstellen
-  - Alices PSBT signieren und auf der Blockchain veröffentlichen
-explanation: |
-  Bob prüft das Consignment, vergewissert sich, dass der Übergang den Vorschriften entspricht, und bestätigt mit seiner Unterschrift, dass er damit einverstanden ist.
-reviewed: false

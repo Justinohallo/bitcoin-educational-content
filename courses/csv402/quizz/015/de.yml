@@ -1,9 +1,0 @@
-question: Welches historische Konzept übertragt RGB in die digitalen Welt?
-answer: Inhaber-Instrumente
-wrong_answers:
-  - Zentralisierte Datenbanken
-  - Peer-to-Peer-Netze ohne Validierung
-  - Offene, für alle zugängliche Register
-explanation: |
-  RGB überträgt die Idee der Inhaberinstrumente auf die digitale Ebene.
-reviewed: false

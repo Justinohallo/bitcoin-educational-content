@@ -1,9 +1,0 @@
-question: Milline topoloogia ühendab kõik seadmed ühe keskpunktiga?
-answer: Star
-wrong_answers:
-  - Ring
-  - Buss
-  - Võrk
-explanation: |
-  Täht-topoloogias on iga seade ühendatud keskseadmega, mis hõlbustab haldamist ja hooldust.
-reviewed: false

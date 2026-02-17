@@ -1,9 +1,0 @@
-question: Millist sighash lippu kasutatakse Bitcoin'i tehingutes kõige sagedamini?
-answer: SIGHASH_ALL
-wrong_answers:
-  - SIGHASH_NONE
-  - SIGHASH_SINGLE
-  - SIGHASH_ANYONECANPAY
-explanation: |
-  SIGHASH_ALL on vaikimisi sighash lipp, mis hõlmab kõiki tehingu sisendeid ja väljundeid, takistades igasuguseid muudatusi.
-reviewed: false

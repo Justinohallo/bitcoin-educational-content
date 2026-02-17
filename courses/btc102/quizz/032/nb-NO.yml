@@ -1,9 +1,0 @@
-question: Hvilken RGB-mekanisme sikrer motstand mot dobbeltutgifter?
-answer: Single-Use Seal
-wrong_answers:
-  - Flerbruks Seal
-  - Dobbeltsignatur
-  - Proof-of-Stake
-explanation: |
-  Single-Use Seal utnytter det faktum at en UTXO bare kan brukes én gang, noe som sikrer motstand mot dobbeltbruk i RGB-smartkontrakter.
-reviewed: false

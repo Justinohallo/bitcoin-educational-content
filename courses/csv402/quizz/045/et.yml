@@ -1,9 +1,0 @@
-question: Millist RGB-standardit kasutatakse asendatavate märkide määratlemiseks?
-answer: RGB20
-wrong_answers:
-  - RGB21
-  - RGB22
-  - RGB25
-explanation: |
-  RGB20 on standard, mida kasutatakse RGB-protokolli kaudu vahetatavate märkide loomiseks ja haldamiseks.
-reviewed: false

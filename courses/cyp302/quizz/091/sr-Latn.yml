@@ -1,9 +1,0 @@
-question: Koja je glavna razlika između primitivne šifre toka i blokovske šifre toka?
-answer: Primitivna šifra toka nije izgrađena od blok šifre.
-wrong_answers:
-  - Primitivna šifra toka zahteva dodavanje punjenja porukama.
-  - Blok šifra šifre toka koristi blokove promenljive veličine.
-  - Blok šifra šifre toka ne može se koristiti za velike podatke.
-explanation: |
-  Primitivna tok šifra, kao što je Salsa20, dizajnirana je nezavisno od blok šifre, dok tok šifra blok šifre koristi blok šifru kao osnovu, modifikovanu da proizvodi strim enkripcije.
-reviewed: true

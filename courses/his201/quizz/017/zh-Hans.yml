@@ -1,8 +1,0 @@
-question: Nick Szabo 于 1998 年在哪个平台首次提出他的 bit-gold 概念？
-answer: libtech-l 邮件列表
-wrong_answers:
-  - cypherpunks 邮件列表
-  - Cryptography 邮件列表
-  - extropians 邮件列表
-explanation: |
-  这是他自己的私人邮件列表，包括了像魏岱和 Hal Finney 等密码朋克，以及像 Larry White 和 George Selgin 等经济学家。

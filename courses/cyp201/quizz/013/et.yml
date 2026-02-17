@@ -1,9 +1,0 @@
-question: Mis on PBKDF2 peamine roll Bitcoinis?
-answer: HD rahakoti seemne genereerimine
-wrong_answers:
-  - Tehingute autentimine
-  - Privaatvõtmete krüpteerimine
-  - Bitcoin aadresside loomine
-explanation: |
-  PBKDF2-d kasutatakse seemne tuletamiseks mnemoonilisest fraasist ja valikulisest paroolist.
-reviewed: false

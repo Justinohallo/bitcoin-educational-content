@@ -1,9 +1,0 @@
-question: Hvilken prosess er eCash elektroniske penge-modellen basert på?
-answer: Blinde signaturer
-wrong_answers:
-  - Gruppesignaturer
-  - Ringsignaturer
-  - Terskelsignaturer
-explanation: |
-  eCash er basert på prosessen med blinde signaturer, som tillater en signaturgiver å signere noe uten å se hva de signerer.
-reviewed: false

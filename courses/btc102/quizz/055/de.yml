@@ -1,9 +1,0 @@
-question: Welches Medium wird für die sichere Sicherung deines Mnemonic-Satzes empfohlen?
-answer: Sicherung auf Metall mit versiegeltem undurchsichtigem Umschlag
-wrong_answers:
-  - Verschlüsselte Speicherung auf USB-Laufwerken
-  - Papiersicherung mit transparenter Hülle
-  - Backup in einer sicheren Cloud
-explanation: |
-  Ein katastrophenresistentes Metall-Backup bietet lang anhaltenden Schutz vor Beschädigung und unbefugtem Zugriff. Der versiegelte undurchsichtige Umschlag ermöglicht es dir zu überprüfen, ob jemand auf den Mnemonic-Satz zugegriffen hat.
-reviewed: false

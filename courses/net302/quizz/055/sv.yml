@@ -1,9 +1,0 @@
-question: Vilket kommando visar detaljerad status för alla nätverksgränssnitt i Linux?
-answer: ip addr visa
-wrong_answers:
-  - ifup -a
-  - netstat -i
-  - ip route visa
-explanation: |
-  kommandot "ip addr show" visar alla nätverksgränssnitt med status, adresser och tillhörande parametrar.
-reviewed: false

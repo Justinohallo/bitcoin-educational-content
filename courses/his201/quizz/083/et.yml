@@ -1,9 +1,0 @@
-question: Mis oli kõrgeim hind, mida Bitcoin saavutas juunis 2011?
-answer: 32 dollarit
-wrong_answers:
-  - 1 dollar
-  - 3 dollarit
-  - 8 dollarit
-explanation: |
-  8. juunil jõudis Bitcoini hind Mt. Goxis ajaloolisele kõrgtasemele, 32 dollarile, kuid seejärel langes kiiresti.
-reviewed: false

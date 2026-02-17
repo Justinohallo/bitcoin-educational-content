@@ -1,9 +1,0 @@
-question: ホドラーの語源は？
-answer: hold のスペルミス
-wrong_answers:
-  - hold の頭文字
-  - Hot Wallet の略
-  - Hold Chain の略
-explanation: |
-  「ホドラー」とは、ビットコイン・トークで長期保有を表す「hold（ホールド）」を「HODL」と誤記したことに由来する。
-reviewed: false

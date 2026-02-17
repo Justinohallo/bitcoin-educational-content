@@ -1,2 +1,0 @@
-description: |
-  Frostsnap on bitcoinien turvajärjestelmä, joka perustuu hajautettuun multisignature-malliin, joka eliminoi kaikki yksittäiset vikapisteet. Frostsnap käyttää FROST-protokollaa (Flexible Round-Optimized Schnorr Treshold Signatures).

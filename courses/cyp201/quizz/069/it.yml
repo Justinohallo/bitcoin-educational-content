@@ -1,9 +1,0 @@
-question: Qual è il ruolo principale della chain code nella derivazione delle chiavi figlie?
-answer: Introdurre una fonte aggiuntiva di entropia
-wrong_answers:
-  - Identificare la profondità gerarchica
-  - Memorizzare gli indici delle chiavi figlie
-  - Garantire la compatibilità con il protocollo Bitcoin
-explanation: |
-  La chain code è utilizzata per introdurre una fonte di entropia aggiuntiva e unica per ogni chiave derivata.
-recensito: false

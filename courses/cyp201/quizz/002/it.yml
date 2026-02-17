@@ -1,9 +1,0 @@
-question: Quale proprietà delle funzioni hash è dimostrata da un cambiamento completo dell'hash quando un messaggio cambia leggermente?
-answer: L'effetto valanga
-wrong_answers:
-  - Resistenza alle collisioni
-  - Resistenza alla seconda pre immagine
-  - Lunghezza
-explanation: |
-  Un piccolo cambiamento nell'input comporta un cambiamento radicale nell'hash, questo è ciò che viene chiamato effetto valanga.
-reviewed: false

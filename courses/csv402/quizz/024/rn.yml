@@ -1,9 +1,0 @@
-question: Ni ubuhe buryo muri RGB butuma amahinduka menshi ashobora gushirwa hamwe mwihanahanwa rimwe rya Bitcoin?
-answer: Umutekero w'ihinduka.
-wrong_answers:
-  - Gushira hamwe ama Serire
-  - Igiti c'ukwiyemeza incuro nyinshi
-  - Uguhindura uko vyari bimeze
-explanation: |
-  Umutekero w'uko bimeze ni umugwi w'Impinduka za Leta za RGB (bikaba biri mumasezerano amwe) zose ziri mukwiyemeza kw'ihanahanwa rya Bitcoin rimwe .
-reviewed: true

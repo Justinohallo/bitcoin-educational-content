@@ -1,9 +1,0 @@
-question: Was macht die Swiss Bitcoin Pay Lösung besonders geeignet für kleine Unternehmen im wesentlichen Profil?
-answer: Eine benutzerfreundliche PoS-App
-wrong_answers:
-  - Erweiterte Handelsfunktionen für mehrere Währungen
-  - Verwaltung einer Wallet mit Mulit-Signiture
-  - Vollständige Integration der Blockchain-Analytik
-explanation: |
-  Swiss Bitcoin Pay ist mit einer unkomplizierten PoS-Schnittstelle ausgestattet, die den täglichen Betrieb vereinfacht.
-reviewed: true

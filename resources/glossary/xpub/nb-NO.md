@@ -1,6 +1,0 @@
----
-term: XPUB
-
-definition: Utvidet offentlig nøkkelprefiks for Legacy- og SegWit V1-kontoer på Bitcoin mainnet.
----
-Utvidet offentlig nøkkelprefiks for Legacy- og SegWit V1-kontoer på Bitcoin.

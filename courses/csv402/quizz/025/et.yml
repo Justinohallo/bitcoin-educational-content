@@ -1,9 +1,0 @@
-question: Millised on neli komponenti, mis määratlevad RGB-lepingu?
-answer: Genesis, skeem, kasutajaliides ja kasutajaliidese rakendamine
-wrong_answers:
-  - Genesis, skeem, üleminek ja liidese rakendamine
-  - Genesis, liides, üleminek ja laiendamine
-  - Genesis, liides, liidese rakendamine ja laiendamine
-explanation: |
-  RGB leping koosneb neljast erinevast elemendist: Genesis, Schema, Interface ja Interface Implementation.
-reviewed: false

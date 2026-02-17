@@ -1,9 +1,0 @@
-question: Kdo jsou vynálezci Lightning Network?
-answer: Thaddeus Dryja a Joseph Poon
-wrong_answers:
-  - Andreas Antonopoulos a Adam Back
-  - Pieter Wuille a Gregory Maxwell
-  - Satoshi Nakamoto a Hal Finney
-explanation: |
-  Thaddeus Dryja a Joseph Poon v roce 2016 vynalezli Lightning Network, aby zlepšili škálovatelnost Bitcoin.
-reviewed: false

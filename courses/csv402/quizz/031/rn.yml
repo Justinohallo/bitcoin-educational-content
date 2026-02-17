@@ -1,9 +1,0 @@
-question: Nigiki nshobora gukora hamwe na fagitire mwirungika rya RGB ?
-answer: Erekana ubwoko bw’ihanahanwa, igitigiri c'umutungo ukenewe hamwe ninsiguro ya Serire yakira.
-wrong_answers:
-  - Gukora Itanguriro nshasha y'umutungo
-  - Gukora igicapo gishasha muguhindura uko ishoramari ry'umutungo rimeze.
-  - Kwubaka PSBT kugira ngo ihanahanwa rya Bitcoin risubirizwe
-explanation: |
-  Fagitire ikoreshwa mu kumenyesha uwuyitanga ivy’ihanahanwa ryubwoko ry'ibikorwa, igitigiri c'imitungo ikenewe kurungikwa hamwe n'aho ishikira(Insiguro ya Serire).
-reviewed: true

@@ -1,9 +1,0 @@
-question: Koja je primarna funkcija Lightning fakture?
-answer: Da zatraži uplatu od čvora pošiljaoca
-wrong_answers:
-  - Da se pošalju sredstva bez On-Chain transakcije
-  - Aktiviranje HTLC-ova na kanalu
-  - Otvoranje novog Lightning kanala
-explanation: |
-  Lightning faktura je zahtev za plaćanje, koji prenosi čvor primalac čvoru pošiljaocu kako bi pokrenuo plaćanje unutar Lightning mreže.
-reviewed: true

@@ -1,9 +1,0 @@
-question: ifcfg-eth0ファイルのどのパラメータがDHCPコンフィグレーションを示しますか？
-answer: BOOTPROTO=dhcp
-wrong_answers:
-  - IPADDR=dhcp
-  - ONBOOT=dhcp
-  - GATEWAY=dhcp
-explanation: |
-  BOOTPROTO=dhcp "パラメータは、InterfaceがDHCPプロトコルで設定を取得することを指定する。
-reviewed: false

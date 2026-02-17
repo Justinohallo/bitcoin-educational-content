@@ -1,9 +1,0 @@
-question: Šta sistem sa obavezujućim transakcijama garantuje učesnicima Lightning kanala?
-answer: Da svako može povratiti svoja sredstva objavljivanjem poslednje potpisane transakcije
-wrong_answers:
-  - Da su te transakcije su vidljive na Bitcoin Blockchain-u
-  - Da se kapacitet kanala povećava sa svakom transakcijom
-  - Da se naknade dele između dva učesnika
-explanation: |
-  Potpisane obavezujuće transakcije osiguravaju da svaki učesnik može povratiti svoja sredstva objavljivanjem najnovije verzije u slučaju zatvaranja kanala.
-reviewed: true

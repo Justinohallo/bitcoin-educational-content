@@ -1,9 +1,0 @@
-question: Numa transação Bitcoin, o que consomem os inputs?
-answer: UTXOs existentes
-wrong_answers:
-  - Outputs futuros
-  - Blocos existentes
-  - Endereços futuros
-explanation: |
-  Um input referencia um output não gasto de uma transação passada, chamado UTXO.
-reviewed: false

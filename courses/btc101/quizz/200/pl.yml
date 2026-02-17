@@ -1,8 +1,0 @@
-question: Jakie jest jedno z potencjalnych zagrożeń związanych z pozostawieniem bitcoinów na platformie wymiany?
-answer: Ryzyko zhakowania i zablokowania funduszy.
-wrong_answers:
-  - Ryzyko zwiększenia ceny bitcoina przez platformę.
-  - Ryzyko kontroli podaży bitcoina przez platformę.
-  - Ryzyko prześcignięcia bitcoin pod względem ceny przez kryptowalutę.
-explanation: >-
-reviewed: true

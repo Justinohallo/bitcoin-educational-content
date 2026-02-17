@@ -1,9 +1,0 @@
-question: Šta rudarenje uspostavlja za Bitcoin?
-answer: Minimalnu cenu
-wrong_answers:
-  - Maksimalnu cenu
-  - Fiksnu cenu
-  - Promenljivu ceni
-explanation: |
-  Rudarenje uspostavlja minimalnu cenu za Bitcoin, ispod koje bi rudari prodavali sa gubitkom. Trošak rudarenja značajno utiče na cenu Bitcoina.
-reviewed: true

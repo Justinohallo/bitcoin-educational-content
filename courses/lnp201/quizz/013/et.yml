@@ -1,8 +1,0 @@
-question: Mis juhtub, kui Alice ei saa Bobi allkirja väljamaksetehingule?
-answer: Ta riskib kaotada juurdepääsu oma vahenditele, mis on hoiustatud mitme allkirjaga aadressil
-wrong_answers:
-  - Ta ei saa enam suhelda Bobiga Lightning Networkis
-  - Kanal avaneb piiratud mahutavusega
-  - Bob saab automaatselt kanalis olevad vahendid
-explanation: |
-  Ilma Bobi allkirjata väljamaksetehingul ei saa Alice tagada oma vahendite taastamist probleemi korral, mis seab ohtu kaotuse.

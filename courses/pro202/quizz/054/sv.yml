@@ -1,8 +1,0 @@
-question: Vilket specifikt villkor måste uppfyllas i Bitcoin:s P2P-nätverkshandskakningsprocess innan två noder aktivt kan börja vidarebefordra lager- och transaktionsdata?
-answer: Båda noderna måste utbyta meddelanden om version och verack med varandra
-wrong_answers:
-  - Den anslutande noden måste få DNS seed-bekräftelse från kärnutvecklare
-  - "Båda noderna måste verifiera varandras blockhöjd och kedjetips hash"
-  - "Den mottagande noden måste validera den anslutande nodens peer-certifikat"
-explanation: |
-  Bitcoin P2P-handskakningen kräver ett dubbelriktat utbyte där den anslutande noden skickar ett versionsmeddelande, mottagaren svarar med verack och sitt eget versionsmeddelande och den ursprungliga avsändaren svarar med sitt verack. Först efter detta kompletta utbyte av fyra meddelanden (version→verack+version→verack) kan noderna påbörja aktiv kommunikation. DNS-frön används endast för initial peer discovery, inte för handskakning. Bitcoin använder inte certifikat, och kedjevalidering sker efter att anslutningen har upprättats.

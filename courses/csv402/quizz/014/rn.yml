@@ -1,9 +1,0 @@
-question: Ni uruhara uruhe Igicapo gifise muri RGB?
-answer: Sigura ibihinduka vy'amasezerano, amategeko hamwe n'uko ishoramari rimeze.
-wrong_answers:
-  - Ibintu vy'ububiko vyahinduwe hagati y'ababaikoresha
-  - Kwemeza ukwiyemeza kwa Pedersen kumasezerano y'ihanahanwa rya Bitcoin
-  - Gukora insiguro ya Serire kuri buri UTXO.
-explanation: |
-  Igicapo cubaka uko amasezerano hamwe n'uko ihanahanwa rihinduka ryemewe n’ivyangombwa vyo kwemeza.
-reviewed: true

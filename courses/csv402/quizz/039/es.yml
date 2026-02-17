@@ -1,9 +1,0 @@
-question: ¿Qué comando exporta un contrato del stash a un archivo externo?
-answer: rgb export '<ContractId>' myContractPBN.rgb
-wrong_answers:
-  - rgb download '<ContractId>' myContractPBN.rgb
-  - rgb dump '<ContractId>' myContractPBN.rgb
-  - rgb issue '<ContractId>' myContractPBN.rgb
-explanation: |
-  El comando "rgb export" se utiliza para extraer un contrato del stash y guardarlo como archivo para compartirlo fácilmente.
-reviewed: false

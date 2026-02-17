@@ -1,9 +1,0 @@
-question: Který standard RGB umožňuje vytvářet jedinečné prostředky nebo "NFT"?
-answer: RGB21
-wrong_answers:
-  - RGB20
-  - RGB25
-  - RGB30
-explanation: |
-  Standard RGB21 je určen pro správu jedinečných aktiv a umožňuje přiřazení soukromých metadat k NFT.
-reviewed: false

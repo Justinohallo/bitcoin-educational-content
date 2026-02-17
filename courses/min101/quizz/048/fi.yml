@@ -1,9 +1,0 @@
-question: Mikä on historian ensimmäinen Bitcoin-louhintapooli?
-answer: Braiins Pool
-wrong_answers:
-  - Foundry USA
-  - AntPool
-  - F2Pool
-explanation: |
-  Braiins Pool, entinen Slush Pool ja Bitcoin CZ, on ensimmäinen Bitcoin-louhintapooli, joka perustettiin vuonna 2010.
-reviewed: false

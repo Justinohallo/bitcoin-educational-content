@@ -1,8 +1,0 @@
-question: 2011 年 9 月，谁创建了比特币改进提案（BIP）系统，这一机制旨在协调比特币的改进工作？
-answer: Amir Taaki
-wrong_answers:
-  - Gavin Andresen
-  - Jeff Garzik
-  - Nils Schneider
-explanation:
-  该系统借鉴了 Python 编程语言的改进提案机制（PEP）。

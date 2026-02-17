@@ -1,9 +1,0 @@
-question: Jaka jest podstawowa funkcja faktury Lightning?
-answer: Żądanie płatności od węzła wysyłającego
-wrong_answers:
-  - Wysyłanie środków bez transakcji on-chain
-  - Aktywacja kontraktu HTLC na kanale
-  - Otworzenie nowego kanału Lightning
-explanation: |
-  Faktura Lightning jest żądaniem płatności, przesyłanym przez węzeł odbierający do węzła wysyłającego w celu zainicjowania płatności w sieci Lightning.
-reviewed: true

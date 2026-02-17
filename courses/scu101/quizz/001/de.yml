@@ -1,9 +1,0 @@
-question: Warum wird empfohlen, nur eine begrenzte Anzahl an Erweiterungen in deinem Browser zu installieren?
-answer: Um potenzielle Sicherheits- und Leistungsprobleme zu vermeiden.
-wrong_answers:
-  - Um Speicherplatz auf deinem Gerät zu sparen.
-  - Um zu verhindern, dass der Browser abstürzt.
-  - Um zu vermeiden, von Drittseiten verfolgt zu werden.
-explanation: |
-  Obwohl Browsererweiterungen nützliche Funktionalitäten bieten können, stellen sie auch Sicherheitsrisiken dar, da sie auf deine Daten und Browsing-Aktivitäten zugreifen können. Zusätzlich kann eine zu große Anzahl an Erweiterungen deinen Browser verlangsamen und dessen Leistung beeinträchtigen.
-reviewed: true

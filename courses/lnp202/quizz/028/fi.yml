@@ -1,9 +1,0 @@
-question: Mikä on vartiotornin rooli, kun se havaitsee huijausyrityksen?
-answer: Julkaise rangaistustapahtuma
-wrong_answers:
-  - Sulje kanava yhteistyössä
-  - Varojen jäädyttäminen
-  - Raportoi vertaisarviointi Bitcoin Core -yksikölle
-explanation: |
-  Vartiotorni lähettää automaattisesti rangaistustapahtuman käyttäjän puolesta.
-reviewed: false

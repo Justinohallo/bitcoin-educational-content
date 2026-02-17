@@ -1,9 +1,0 @@
-question: Jaki jest ostatni krok, aby otworzyć kanał w sieci Lightning?
-answer: Opublikowanie transakcji wpłaty w łańcuchu bloków Bitcoina
-wrong_answers:
-  - Podpisanie transakcji wypłaty w celu odzyskania środków
-  - Wysłanie wiadomości do drugiej strony z potwierdzeniem otwarcia
-  - Weryfikacja salda środków każdego uczestnika
-explanation: |
-  Ostatnim krokiem do otwarcia kanału jest opublikowanie transakcji depozytu w łańcuchu bloków, co oficjalnie otwiera kanał.
-reviewed: true

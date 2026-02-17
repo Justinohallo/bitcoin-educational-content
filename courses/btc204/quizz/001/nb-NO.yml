@@ -1,9 +1,0 @@
-question: Hva er en UTXO på Bitcoin?
-answer: Et stykke bitcoin som ennå ikke har blitt brukt.
-wrong_answers:
-  - En Bitcoin-adresse for å motta midler.
-  - En spesiell type Bitcoin-lommebok.
-  - En krypteringsalgoritme for Bitcoin.
-explanation: |
-  En UTXO er et ubrukt transaksjonsutdata, så det er i bunn og grunn et stykke bitcoin.
-reviewed: false

@@ -1,9 +1,0 @@
-question: Ni igiki object-oriented programming(OOP) kingana n’igice vy'ibicapo muverekeye RGB?
-answer: Insiguro ry'ishure
-wrong_answers:
-  - Umuwubatsi w'ishure
-  - Gushira mu ngiro Ahakorerwa ibintu.
-  - Uburyo bwo gukora akarorero
-explanation: |
-  Igicapo gihuriranye nezaneza y'umugwi muri OOP, udondora ukobimeze, uburyo n'amategeko y'uko ishoramari rimeze.
-reviewed: true

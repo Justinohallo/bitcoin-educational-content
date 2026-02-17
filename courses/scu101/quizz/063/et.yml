@@ -1,9 +1,0 @@
-question: Millist sertifitseerimist tunnustatakse kogu maailmas küberturvalisuse valdkonnas?
-answer: CISSP
-wrong_answers:
-  - PMP
-  - ITIL
-  - SHA2
-explanation: |
-  CISSP sertifikaat on üks rahvusvaheliselt tunnustatud küberturvalisuse valdkonna sertifikaate.
-reviewed: false

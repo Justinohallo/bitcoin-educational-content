@@ -1,9 +1,0 @@
-question: Ni ibihe bice bine bisigura amasezerano ya RGB ?
-answer: Itanguriro, Igicapo, Ahakorerwa ibintu n'aho ibintu bishirirwa mungiro .
-wrong_answers:
-  - Itanguriro, Igicapo, Inzira y’Impinduka n'aho ibintu bishirirwa mungiro.
-  - Intanguriro, Ahakorerwa ibintu, Impinduka n'Ukwagura
-  - Itanguriro, Ahakorerwa ibintu, Aho ibintu bishirirwa mungiro n'Ivyagutse
-explanation: |
-  Amasezerano ya RGB agizwe n’ibikoresho bine bitandukanye vyitwa Ibintu; Itanguriro, Igicapo, Ahakorerwa ibintu n'aho ibintu bishirirwa mungiro.
-reviewed: true

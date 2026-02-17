@@ -1,9 +1,0 @@
-question: Tiền giấy có lợi thế chính nào so với tiền xu trong hệ thống thanh toán truyền thống?
-answer: Tăng tính di động và hiệu quả
-wrong_answers:
-  - Giá trị nội tại được nâng cao thông qua kim loại quý
-  - Tự động xác minh mọi giao dịch
-  - Loại bỏ hoàn toàn rủi ro hàng giả
-explanation: |
-  Tiền giấy nhẹ và dễ vận chuyển hơn tiền xu, giúp giao dịch đường dài hiệu quả hơn và giảm bớt những thách thức về hậu cần.
-reviewed: true

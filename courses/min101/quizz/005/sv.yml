@@ -1,9 +1,0 @@
-question: Vad motsvarar nbits-fältet i blockhuvudet?
-answer: Det kodade svårighetsmålet
-wrong_answers:
-  - Blockstorleken i bytes
-  - Antalet transaktioner i blocket
-  - Blockets tidsstämpel
-explanation: |
-  nbits-fältet kodar det aktiva svårighetsmålet.
-reviewed: false

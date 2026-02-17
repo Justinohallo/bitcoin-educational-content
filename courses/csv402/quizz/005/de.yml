@@ -1,9 +1,0 @@
-question: Welche Methode wird in RGB verwendet, um ein Singe-use Seal zu definieren?
-answer: Ein spezifischer Outpoint
-wrong_answers:
-  - Ein bestimmter öffentlicher Schlüssel
-  - Eine bestimmte Bitcoin-Adresse
-  - Eine Kombination aus mehreren UTXOs
-explanation: |
-  RGB definiert ein Singe-use Seal als einen bestimmten Outpoint, der dann durch die Ausgabe dieses Outpoints (TXID + Output-Nummer) geschlossen werden kann.
-reviewed: false

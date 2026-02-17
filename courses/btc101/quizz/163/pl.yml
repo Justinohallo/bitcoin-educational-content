@@ -1,8 +1,0 @@
-question: Jaka jest główna zaleta wyspecjalizowanych maszyn SHA256 lub ASICS w wydobywaniu bitcoinów?
-answer: Zwiększają współczynnik haszy na dżul.
-wrong_answers:
-  - Zmniejszają zużycie energii.
-  - Zwiększają szybkość transakcji.
-  - Zwiększają bezpieczeństwo sieci.
-explanation: >-
-reviewed: true

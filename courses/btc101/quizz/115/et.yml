@@ -1,9 +1,0 @@
-question: Milline on olnud Bitcoini võrguühenduse kättesaadavus alates 2009. aastast?
-answer: 99,988%.
-wrong_answers:
-  - 100%.
-  - 90,009%.
-  - 80,17%.
-explanation: |
-  Bitcoini võrguühenduse kättesaadavus on olnud 99,988% alates 2009. aastast.
-reviewed: true

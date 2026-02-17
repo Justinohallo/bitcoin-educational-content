@@ -1,9 +1,0 @@
-question: Wie setzt sich ein Anchor in RGB zusammen?
-answer: Transaktions-ID, MPC, DBC und Extra-Transaktionsnachweis
-wrong_answers:
-  - Genesis, Siegeldefinition und Transition Bundle
-  - Vertragsschema, Business Logic und Owned States
-  - Signatur, Transaktionshash und Pedersen-Commitment
-explanation: |
-  Ein Anchor enthält die Daten, die benötigt werden, um die Einbindung eines bestimmten Commitments in eine Bitcoin-Transaktion zu beweisen.
-reviewed: false

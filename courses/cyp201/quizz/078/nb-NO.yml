@@ -1,9 +1,0 @@
-question: Hva betyr prefikset `wpkh` i en beskrivelse?
-answer: Betal-til-Vitne-PubKey-Hash
-wrong_answers:
-  - Betal-til-PubKey
-  - Betal-til-Skript-Hash
-  - Vitne Skript Hash
-explanation: |
-  Prefikset `wpkh` indikerer et SegWit v0 skript som bruker Betal-til-Vitne-Publikk-Nøkkel-Hash adresser.
-reviewed: false

@@ -1,9 +1,0 @@
-question: Prema Eulerovoj teoremi, koji je rezultat potenciranja a^ϕ(N) mod N za dva cela broja a i N koji su međusobno prosti.
-answer: 1 mod N
-wrong_answers:
-  - 0 mod N
-  - N mod a
-  - a mod N
-explanation: |
-  Eulerova teorema kaže da za dva cela broja a i N koji su međusobno prosti, potenciranje a^ϕ(N) mod N je uvek jednako 1 mod N, što je osobina koja se koristi u kriptografiji.
-reviewed: true

@@ -1,9 +1,0 @@
-question: Welk van de volgende antwoorden is geen voordeel van het gebruik van je eigen knooppunt?
-answer: Transactiekosten verlagen.
-wrong_answers:
-  - Deelnemen aan de consensus.
-  - Onafhankelijk zijn van derden.
-  - In staat zijn om transactiecensuur te weerstaan.
-explanation: |
-  Het runnen van je eigen node is cruciaal voor een volledig soeverein gebruik van Bitcoin. Het biedt weerstand tegen censuur, omdat niemand jouw transacties kan blokkeren. Je bent volledig onafhankelijk van externe diensten voor het verifiëren van blockchain-gegevens en kunt actief deelnemen aan het netwerk door je eigen validatieregels in te stellen. Bovendien versterk je met je node het hele Bitcoin-netwerk en draag je bij aan de verspreiding ervan. Tenslotte is het beheren van een full node een uitstekende manier om je technische kennis over Bitcoin aanzienlijk te verdiepen.
-reviewed: false

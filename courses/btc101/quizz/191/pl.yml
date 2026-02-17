@@ -1,9 +1,0 @@
-question: Jaka jest jedna z rzeczy, które powinieneś mieć przed zakupem bitcoina?
-answer: Bezpieczny portfel.
-wrong_answers:
-  - Fizyczny sejf.
-  - Konto bankowe.
-  - Kartę kredytową.
-explanation: |
-  Tekst kursu wspomina, że przed zakupem bitcoina należy mieć bezpieczny portfel, w którym będziesz przechowywać klucze.
-reviewed: true

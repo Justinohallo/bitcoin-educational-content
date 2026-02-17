@@ -1,9 +1,0 @@
-question: Ni ikihe kintu nyamukuru gituma Bob aronka umutungo mu gihe c'uko ihinduka rimeze kuri RGB?
-answer: Insiguro ya Serire nshasha yerekana UTXO ya Bob.
-wrong_answers:
-  - Ihanahanwa rigenzura atacisunga UTXO.
-  - Itangazo riri kukarubanda rivuye kwa Alice.
-  - Umukono w’incuro zibiri usangiwe na Alice na Bob.
-explanation: |
-  Insiguro ya Serire ihuzwa n'ubuhinga bw'ukunyegeza indome kuri UTXO ya Bob, kugira ngo imenye neza ko ari we ayifise.
-reviewed: true

@@ -1,9 +1,0 @@
-question: Dove ha pubblicato Satoshi Nakamoto il white paper di Bitcoin il 31 ottobre 2008?
-answer: La mailing list di crittografia
-wrong_answers:
-  - Reddit
-  - Twitter
-  - Hackernews
-explanation: |
-  Come successore della mailing list dei cypherpunks, questa lista email era gestita dallo sviluppatore Perry Metzger dal 1996.
-reviewed: false

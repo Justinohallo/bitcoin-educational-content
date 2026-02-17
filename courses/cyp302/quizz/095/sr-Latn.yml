@@ -1,9 +1,0 @@
-question: Kako MAC omogućava Alisi da verifikuje da je poruka zaista od Boba?
-answer: Proveravajući da generisani tag odgovara onom koji je poslao Bob
-wrong_answers:
-  - Dešifrovanjem poruke da se vidi da li je čitljiva
-  - Upoređivanjem veličine poruke i veličine oznake
-  - Verifikacijom IP adrese pošiljaoca
-explanation: |
-  Alisa koristi deljeni tajni ključ da generiše oznaku iz primljene poruke. Ako se ova oznaka poklapa sa onom koju je poslao Bob, ona zna da je poruka autentična i netaknuta.
-reviewed: true

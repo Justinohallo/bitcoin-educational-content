@@ -1,9 +1,0 @@
-question: Was ist die Einschränkung für die Ableitung eines öffentlichen untergeordneten Schlüssels von einem öffentlichen übergeordneten Schlüssel?
-answer: Der untergeordnete Schlüssel muss normal sein
-wrong_answers:
-  - Der untergeordnete Schlüssel muss gehärtet sein
-  - Der Chain-Code muss identisch mit dem des übergeordneten Schlüssels sein
-  - Der Prozess muss den privaten übergeordneten Schlüssel beinhalten
-explanation: |
-  Ein öffentlicher untergeordneter Schlüssel kann nur von einem öffentlichen übergeordneten Schlüssel abgeleitet werden, wenn er nicht gehärtet ist.
-reviewed: true

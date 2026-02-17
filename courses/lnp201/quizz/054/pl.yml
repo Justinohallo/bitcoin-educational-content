@@ -1,9 +1,0 @@
-question: Jakim rodzajem płynności musi przede wszystkim zarządzać sprzedawca w sieci Lightning, aby przyjmować płatności?
-answer: Płynnością przychodzącą
-wrong_answers:
-  - Płynnością wychodzącą
-  - Wysoką całkowitą przepustowością kanału
-  - Wysokim bilansem on-chain
-explanation: |
-  Aby otrzymywać płatności, sprzedawca musi mieć płynność przychodzącą, co oznacza, że środki muszą być dostępne po przeciwnej stronie kanału, aby mógł przyjmować płatności.
-reviewed: true

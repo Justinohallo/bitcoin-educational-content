@@ -1,8 +1,0 @@
-question: Qual è la funzione principale di un output script descriptor?
-answer: Descrivere completamente uno script di output e fornire le informazioni necessarie per ripristinare un wallet
-wrong_answers:
-  - Generare automaticamente indirizzi multisig
-  - Sostituire la frase mnemonica nei backup dei wallet
-  - Semplificare i calcoli delle firme digitali
-explanation: |
-  I descriptor racchiudono tutte le informazioni necessarie per tracciare uno script specifico, inclusi il derivation path e le chiavi utilizzate, ma non la frase mnemonica.

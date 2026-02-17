@@ -1,9 +1,0 @@
-question: Jaka luka w zabezpieczeniach podpisu ECDSA została poprawiona przez SegWit?
-answer: Plastyczność
-wrong_answers:
-  - Weryfikacja partii
-  - Brak agregacji
-  - Nadmierny rozmiar podpisów
-explanation: |
-  SegWit poprawił plastyczność podpisów ECDSA, umożliwiając takie zastosowania jak Lightning Network.
-reviewed: false

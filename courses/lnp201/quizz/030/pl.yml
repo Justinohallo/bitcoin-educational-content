@@ -1,9 +1,0 @@
-question: W jaki sposób sieć Lightning umożliwia wysyłanie środków do węzła, który nie jest bezpośrednio połączony?
-answer: Poprzez przekierowanie płatności przez węzły pośredniczące
-wrong_answers:
-  - Wykorzystując transakcje on-chain między każdym węzłem
-  - Automatycznie ustanawiając kanał tymczasowy 
-  - Wysyłając środki bezpośrednio na adresy wielopodpisowe
-explanation: |
-  Sieć Lightning umożliwia przekierowanie płatności przez kilka węzłów pośredniczących, nie wymagając bezpośredniego kanału między nadawcą a odbiorcą.
-reviewed: true

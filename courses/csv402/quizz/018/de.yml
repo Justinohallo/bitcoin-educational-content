@@ -1,9 +1,0 @@
-question: Welche Operationen bestimmen die Entwicklung eines Smart Contract in RGB?
-answer: Zustandsübergang, Genesis und Zustandserweiterung
-wrong_answers:
-  - Siegelerstellung, Vertragserfüllung und endgültige Validierung
-  - UTXO-Übertragung, Prooferzeugung und Hash Commitment
-  - Transition Bundles, Single-use Seals und Erzeugung von Valenzen
-explanation: |
-  Durch diese Vorgänge wird der Zustand des Vertrags erstellt oder geändert, wobei seine Gültigkeit durch Bitcoin-Anchor garantiert wird.
-reviewed: false

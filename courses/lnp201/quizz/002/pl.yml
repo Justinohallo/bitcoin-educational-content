@@ -1,9 +1,0 @@
-question: Jeśli Alicja wyśle Bobowi 40 000 satów z kanału płatności, w którym początkowo miała 100 000 satów, ile środków pozostanie jej po transakcji?
-answer: 60 000 satów
-wrong_answers:
-  - 30 000 satów
-  - 40 000 satów
-  - 140 000 satów
-explanation: |
-  Po wysłaniu 40 000 satów saldo Alicji na kanale wynosi 60 000 satów.
-reviewed: true

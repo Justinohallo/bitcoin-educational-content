@@ -1,9 +1,0 @@
-question: Jaki jest obecny rozmiar łańcucha bloków Bitcoina?
-answer: Około 660GB
-wrong_answers:
-  - Około 110GB
-  - Około 1TB
-  - Około 2TB
-explanation: |
-  Łańcuch bloków Bitcoina od 2025 r. ma rozmiar około 660GB.
-reviewed: true

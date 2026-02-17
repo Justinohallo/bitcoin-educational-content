@@ -1,9 +1,0 @@
-question: Milline üksus vastutab füüsilise valuuta emiteerimise eest?
-answer: Keskpank
-wrong_answers:
-  - Kommertspank
-  - Valitsus
-  - Eraasutused
-explanation: |
-  Keskpank on üksus, mis vastutab füüsilise valuuta emiteerimise eest. Nad otsustavad rahapoliitika üle ja määravad, kui palju raha tuleks ringlusse lasta või trükkida.
-reviewed: true

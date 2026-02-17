@@ -1,9 +1,0 @@
-question: Milline krüpteerimise tüüp kasutab fikseeritud andmeblokke?
-answer: Blokkrüpteerimine
-wrong_answers:
-  - Voogkrüpteerimine
-  - Sõnumi autentimiskood
-  - Avalik võti
-explanation: |
-  Blokkrüpteerimine jagab andmed fikseeritud suurusega blokkideks ja krüpteerib need sõltumatult.
-reviewed: false

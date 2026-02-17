@@ -1,9 +1,0 @@
-question: Hva har vært Bitcoins online tilgjengelighet siden 2009?
-answer: 99,988%.
-wrong_answers:
-  - 100%.
-  - 90,009%.
-  - 80,17%.
-explanation: |
-  Bitcoins online tilgjengelighet har vært 99,988% siden 2009.
-reviewed: true

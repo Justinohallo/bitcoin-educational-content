@@ -1,9 +1,0 @@
-question: Node yokuri lightning ya RGB n'iki muriyi RGB ?
-answer: daemon yo gucunga imihora ya Lightning ihuye na RGB
-wrong_answers:
-  - Ingodo yomuri ngendanwa kugira ngo icunge umutungo wa RGB
-  - Serveri y'ubutumwa kuri Exchange RGB
-  - Igikoresho ca Mining c’itunga rya RGB kuri Bitcoin.
-explanation: |
-  Node yokuri lightning ya RGB ni Rust daemon yagenewe gushiramwo ivy’ubutunzi vya RGB mu mihora y’umuravyo mu kwongerako amahinduka y'ukobimeze ya RGB ku bikorwa vy’ihanahanwa.
-reviewed: true

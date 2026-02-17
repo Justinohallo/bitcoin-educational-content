@@ -1,9 +1,0 @@
-question: Na co pozwala użytkownikom funkcja wypłaty LNURL?
-answer: Wypłata środków z usługi poprzez zeskanowanie kodu QR
-wrong_answers:
-  - Dokonanie płatności bezpośredniej bez opłat za przekierowanie
-  - Podłączenie swojego portfela Lightning bez hasła
-  - Wysyłanie środków bez potwierdzenia odbiorcy
-explanation: |
-  Wypłata LNURL pozwala użytkownikom na wypłatę środków z usługi poprzez zeskanowanie kodu QR, upraszczając w ten sposób proces wypłaty.
-reviewed: true

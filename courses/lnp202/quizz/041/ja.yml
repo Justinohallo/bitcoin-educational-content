@@ -1,9 +1,0 @@
-question: UmbrelにThunderHubをインストールするには？
-answer: App Store
-wrong_answers:
-  - SSHコンソール
-  - システム設定
-  - Interface Bitcoin コア
-explanation: |
-  ThunderHubはUmbrel App Storeを通じてアプリケーションとしてインストールされる。
-reviewed: false

@@ -1,8 +1,0 @@
-question: 2010 年 10 月，矿工 m0mchil 设计了哪个函数？其能使客户端节点可以检索候选区块并在找到解决方案时返回工作量证明
-answer: getwork
-wrong_answers:
-  - stratum
-  - gethash
-  - getcredit
-explanation:
-  这个函数于 2010 年 10 月 1 日发布。中本聪在 11 月 23 日将其修改版本纳入比特币主软件中。

@@ -1,9 +1,0 @@
-question: Millised krüptograafid lõid RSA krüptosüsteemi 1978. aastal?
-answer: Ronald Rivest, Adi Shamir ja Leonard Adleman
-wrong_answers:
-  - Whitfield Diffie, Martin Hellman ja Ralph Merkle
-  - Marc Girault, Guillaume Poupard ja Jacques Stern
-  - Alfred Menezes, Minghua Qu ja Scott Vanstone
-explanation: |
-  Rivest, Shamir ja Adleman nimetasid RSA algoritmi kasutades oma kolme initsiaali.
-reviewed: false

@@ -1,9 +1,0 @@
-question: Mikä on AluVM:n tärkein tehtävä RGB-protokollassa?
-answer: Skriptien ja sopimusoperaatioiden suorittaminen virtuaalikoneympäristössä
-wrong_answers:
-  - Analysoi Bitcoinin ketjussa tapahtuvia tapahtumia virtuaalikoneympäristössä
-  - Luo julkisia avaimia RGB-käyttäjille virtuaalikoneympäristössä
-  - Julkisen lohkoketjun validoinnin optimointi virtuaalikoneympäristössä
-explanation: |
-  AluVM on suunniteltu älykkäiden sopimusten validointiin ja hajautettuun laskentaan RGB-kehyksessä.
-reviewed: false

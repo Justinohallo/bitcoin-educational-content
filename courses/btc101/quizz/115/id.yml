@@ -1,9 +1,0 @@
-question: Berapa ketersediaan online Bitcoin sejak 2009?
-answer: 99,988%.
-wrong_answers:
-  - 100%.
-  - 90,009%.
-  - 80,17%.
-explanation: |
-  Ketersediaan online Bitcoin adalah 99,988% sejak 2009.
-reviewed: true

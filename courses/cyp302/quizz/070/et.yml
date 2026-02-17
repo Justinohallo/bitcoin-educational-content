@@ -1,9 +1,0 @@
-question: Millist tüüpi krüpteering on nihkekrüpteering?
-answer: Monoalfabeetiline asenduskiri
-wrong_answers:
-  - Sõnade permutatsioonikiri
-  - Polüalfabeetiline asenduskiri
-  - Asümmeetriline kiri
-explanation: |
-  Nihkekrüpteering on monoalfabeetilise asenduskirja näide, kus sõnumi iga täht nihutatakse tähestikus fikseeritud arvu positsioone.
-reviewed: false

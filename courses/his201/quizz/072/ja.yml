@@ -1,9 +1,0 @@
-question: サトシが去った時、彼は誰にソフトウェア開発の責任を委ねたか？
-answer: Gavin Andresen
-wrong_answers:
-  - Martti Malmi
-  - Jeff Garzik
-  - Mike Hearn
-explanation: |
-  Gavinは以前に[述べた](https://bitcointalk.org/index.php?topic=2367.msg31651#msg31651)ことがあり、「ビットコインプロジェクトをより積極的に管理する」とし、2010年12月にGitHubリポジトリを開設していました。
-reviewed: false

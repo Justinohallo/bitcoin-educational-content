@@ -1,9 +1,0 @@
-question: Quale indice rappresenta la chain esterna di un account in un derivation path?
-answer: /0/
-wrong_answers:
-  - /1/
-  - /0'/
-  - /2/
-explanation: |
-  La chain esterna è identificata dall'indice /0/ al livello 4 del derivation path.
-reviewed: false

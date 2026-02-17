@@ -1,9 +1,0 @@
-question: Prilikom rutiranja unutar Lightning mreže koja je glavna uloga čvora koji šalje?
-answer: Izračunavanje kompletne rute do primaoca
-wrong_answers:
-  - Skladištenje informacija o likvidnosti svih kanala mreže
-  - Odredjivanje naknade za transakcije za svaki posrednički čvor
-  - Komuniciranje direktno sa svim posredničkim čvorovima
-explanation: |
-  Čvor koji šalje odgovoran je za izračunavanje cele rute do primaoca, jer posrednički čvorovi poznaju samo svog neposrednog suseda.
-reviewed: true

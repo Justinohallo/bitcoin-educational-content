@@ -1,9 +1,0 @@
-question: Welche RGB-Vertragsoperation erzeugt einen neuen Zustand, ohne ein Siegel zu schließen?
-answer: Zustandserweiterung
-wrong_answers:
-  - Zustandsübergang
-  - Genesis
-  - Aktivierung von Valenzen
-explanation: |
-  Die Zustandserweiterung ermöglicht es, einen neuen Zustand oder neue Rechte (Valencies) zu erstellen, ohne dass das Siegel sofort geschlossen wird.
-reviewed: false

@@ -1,9 +1,0 @@
-question: Quelle certification est mondialement reconnue dans le domaine de la cybersécurité ?
-answer: CISSP
-wrong_answers:
-  - PMP
-  - ITIL
-  - SHA2
-explanation: |
-  La certification CISSP est l'une des plus reconnues au niveau international dans le domaine de la cybersécurité.
-reviewed: false

@@ -1,9 +1,0 @@
-question: Millist jaotust peetakse vanimaks veel säilitatavaks?
-answer: Slackware
-wrong_answers:
-  - Fedora
-  - Gentoo
-  - Manjaro
-explanation: |
-  1993. aastal Patrick Volkerdingi poolt loodud Slackware on vanim tänaseni aktiivne Linuxi distributsioon.
-reviewed: false

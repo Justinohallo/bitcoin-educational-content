@@ -1,9 +1,0 @@
-question: Welchen Zweck erfüllt das letzte Consignment im Rahmen des RGB-Übertragungsprozesses?
-answer: Historie der Zustandsübergänge bereitstellen
-wrong_answers:
-  - Genesis-Vertrag validieren
-  - Alte Zustandsübergänge löschen
-  - Generierung eines neuen Schemas für die Übertragung
-explanation: |
-  Das letzte Consigment sammelt die Historie des Vertrages, um die Rechtmäßigkeit des übertragenen Vermögenswertes bis zum heutigen Tag zu beweisen.
-reviewed: false

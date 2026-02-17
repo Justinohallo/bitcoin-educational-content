@@ -1,8 +1,0 @@
-question: Jaki jest ogólny trend bitcoina, biorąc pod uwagę jego ograniczoną podaż i proces halvingu?
-answer: Ogólny trend wzrostowy.
-wrong_answers:
-  - Ogólny trend spadkowy.
-  - Brak jakiegokolwiek trendu.
-  - Trend, który podlega gwałtownym wahaniom bez wyraźnego wzorca.
-explanation: >-
-reviewed: true

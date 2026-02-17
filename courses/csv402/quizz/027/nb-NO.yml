@@ -1,9 +1,0 @@
-question: Hva tilsvarer objektorientert programmering (OOP) komponenten Schema i RGB-sammenheng?
-answer: Klassedefinisjon
-wrong_answers:
-  - Klassekonstruktøren
-  - Implementering av et grensesnitt
-  - Prototyping av metoder
-explanation: |
-  Skjemaet tilsvarer definisjonen av en klasse i OOP, som beskriver egenskaper, metoder og regler for forretningslogikken.
-reviewed: false

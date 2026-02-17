@@ -1,9 +1,0 @@
-question: Apa sifat dari Schnorr yang memungkinkan penggabungan beberapa kunci publik menjadi satu?
-answer: Key Aggregation
-wrong_answers:
-  - Batch Verification
-  - Malleability
-  - Signature Compaction
-explanation: |
-  Schnorr memungkinkan untuk agregasi beberapa kunci publik menjadi satu kunci tunggal.
-reviewed: true

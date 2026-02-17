@@ -1,9 +1,0 @@
-question: Quale standard Bitcoin introduce i wallet gerarchico-deterministici?
-answer: BIP32
-wrong_answers:
-  - BIP39
-  - BIP44
-  - BIP141
-explanation: |
-  BIP32 definisce il funzionamento dei wallet HD, consentendo la derivazione gerarchica delle chiavi private da un seed.
-recensito: false

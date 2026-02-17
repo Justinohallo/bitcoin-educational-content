@@ -1,9 +1,0 @@
-question: Koji je problem distribucije ključeva?
-answer: Izazov sigurnog prenosa ključeva bez fizičke razmene
-wrong_answers:
-  - Potrebno je generisati više ključnih parova po klijentu
-  - Teškoća osiguravanja fizičkog skladištenja ključeva
-  - Obaveza promene ključeva pri svakoj komunikaciji
-explanation: |
-  Problem distribucije ključeva odnosi se na izazov prenosa ključeva na siguran način, što je postalo ključno u digitalnim komunikacijama gde je fizički razmena nepraktična.
-reviewed: true

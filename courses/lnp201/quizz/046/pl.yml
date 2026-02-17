@@ -1,9 +1,0 @@
-question: Co w fakturze Lightning oznacza przedrostek lnbc w części czytelnej dla człowieka?
-answer: Wskazuje transakcję Lightning w łańcuchu bloków Bitcoina
-wrong_answers:
-  - Faktura jest ważna tylko na Bitcoin Testnet
-  - Faktura jest zakodowana w bech32
-  - Że jest to transakcja on-chain
-explanation: |
-  Prefiks lnbc oznacza, że faktura dotyczy transakcji Lightning w sieci Bitcoin, a nie w innej sieci.
-reviewed: true

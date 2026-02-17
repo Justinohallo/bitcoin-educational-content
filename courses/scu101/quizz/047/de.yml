@@ -1,9 +1,0 @@
-question: Was ist der Zweck von 2FA?
-answer: Deine Online-Konten gegen unbefugten Zugriff zu schützen.
-wrong_answers:
-  - Es dir schwerer zu machen, auf dein eigenes Konto zuzugreifen
-  - Deine Online-Aktivitäten zu verfolgen
-  - Die Geschwindigkeit deiner Internetverbindung zu erhöhen
-explanation: |
-  2FA fügt eine zusätzliche Sicherheitsebene zu deinen Online-Konten hinzu. Selbst wenn ein Hacker dein Passwort erhält, wird er ohne den zweiten Verifizierungsfaktor nicht auf dein Konto zugreifen können.
-reviewed: true

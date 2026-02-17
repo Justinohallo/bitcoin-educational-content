@@ -1,9 +1,0 @@
-question: Hashcash hangi yılda önerildi?
-answer: 1997
-wrong_answers:
-  - 1993
-  - 2004
-  - 1995
-explanation: |
-  Hashcash ilk olarak Mart 1997'de duyuruldu.
-reviewed: false

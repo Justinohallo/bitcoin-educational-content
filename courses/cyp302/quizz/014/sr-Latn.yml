@@ -1,9 +1,0 @@
-question: Kakav stav bi korisnici trebalo da zauzmu u vezi sa privatnošću svojih komunikacija u savremenom okruženju?
-answer: Pretpostaviti da neko uvek sluša
-wrong_answers:
-  - Osloniti se isključivo na Wi-Fi
-  - Verovanje da su mobilni podaci potpuno sigurni
-  - Koristiti samo žičane veze
-explanation: |
-  U svetu gde su mnogi komunikacioni kanali podložni presretanju, mudro je pretpostaviti da treća strana možda prisluškuje, što čini kriptografiju neophodnom.
-reviewed: true

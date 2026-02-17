@@ -1,9 +1,0 @@
-question: ¿Para qué sirve la implantación de interfaces en la arquitectura RGB?
-answer: Mapear los campos del Schema a los nombres definidos en Interface
-wrong_answers:
-  - Compilación de scripts AluVM para validación
-  - Definir los global states y los owned states del contrato
-  - Para almacenar pruebas criptográficas del lado del cliente
-explanation: |
-  La Interface Implementation establece el vínculo entre la lógica de negocio del Schema y la presentación legible por Interface.
-reviewed: false

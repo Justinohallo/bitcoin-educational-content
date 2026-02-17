@@ -1,9 +1,0 @@
-question: ¿Cuál es la función principal de Schema en un contrato RGB?
-answer: Describir la lógica de negocio y la estructura de datos del contrato
-wrong_answers:
-  - Definición de la interfaz para las wallet RGB
-  - Gestión de la compilación de scripts en la blockchains
-  - Validación criptográfica en on-chain
-explanation: |
-  El Schema define la estructura declarativa, los tipos de datos y las reglas de validación del contrato, lo que permite gestionar la lógica empresarial en el lado del cliente.
-reviewed: false

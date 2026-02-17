@@ -1,9 +1,0 @@
-question: Was ist ein Reflektionsangriff in einer Kommunikationssitzung?
-answer: Der Angreifer sendet Alice eine Nachricht zurück, die er zwischen Alice und Bob abgefangen hat.
-wrong_answers:
-  - Der Angreifer kehrt die Reihenfolge der Nachrichten in der Kommunikation um.
-  - Der Angreifer sendet eine modifizierte Nachricht ohne das Tag.
-  - Der Angreifer verwendet eine alte Nachricht, um eine neue zu erstellen.
-explanation: |
-  Bei einem Reflektionsangriff fängt der Angreifer eine Nachricht von Alice an Bob ab und sendet dieselbe Nachricht zurück an Alice, was in der Sitzung für Verwirrung sorgt.
-reviewed: false

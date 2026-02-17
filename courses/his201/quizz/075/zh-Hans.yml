@@ -1,8 +1,0 @@
-question: 2011 年 3 月，Mike Hearn 发布了哪款实现了简化支付验证（SPV）的软件？
-answer: BitCoinJ
-wrong_answers:
-  - Spesmilo
-  - bcoin
-  - Libbitcoin
-explanation:
-  他在 2011 年 3 月以开源许可证（Apache 2.0）发布了这款软件，并将其归属于当时的雇主 Google。BitCoinJ 的推出让首个能在 Android 上运行的轻量级钱包得以实现。

@@ -1,9 +1,0 @@
-question: Koji metod zatvaranja kanala je najekonomičniji i najbrži?
-answer: Kooperativno zatvaranje
-wrong_answers:
-  - Prinudno zatvaranje
-  - Zatvaranje sa prevarom
-  - Nijedan nije ekonomičniji i brži
-explanation: |
-  Kooperativno zatvaranje je najbrža i najekonomičnija metoda jer se obe strane slažu da zatvore kanal, prilagođavajući naknade prema uslovima na tržištu.
-reviewed: true

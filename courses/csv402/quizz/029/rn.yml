@@ -1,9 +1,0 @@
-question: Ni uruhara uruhe nyamukuru rw'igicapo mumasezerano ya RGB ?
-answer: Sigura uko ishoramari rimeze n’uko amakuru yubatse y'ayo masezerano.
-wrong_answers:
-  - Gusigura ahakorerwa ibintu kungondo ya RGB
-  - Gucungera ugushirahamwe inyandiko kuri Blockchain.
-  - Ukwemeza kw'unuhinga bunyegeza inyandiko kwa On-Chain
-explanation: |
-  Igicapo gisigura inyubako yemeza, ubwoko bw’amakuru n’amategeko yo kwemeza Amasezerano, bikagufasha gucunga uko ishoramari rimeze ku ruhande rw’umuguzi.
-reviewed: true

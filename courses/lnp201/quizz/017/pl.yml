@@ -1,9 +1,0 @@
-question: Co się stanie, jeśli Bob wyśle Alicji fakturę na 30 000 satów?
-answer: Alicja utworzy transakcję zobowiązującą, aby przesłać Bobowi 30 000 satów w kanale.
-wrong_answers:
-  - Alicja musi otworzyć nowy kanał, aby dokonać tego przelewu.
-  - Bob automatycznie otrzymuje 30 000 satów w swoim portfelu.
-  - Faktura jest opłacana poprzez transakcję on-chain w sieci Bitcoin.
-explanation: |
-  Gdy Bob wysyła Alicji fakturę, ta tworzy i podpisuje nową transakcję zobowiązującą, aby dostosować dystrybucję środków, tym samym przesyłając 30 000 satów w kanale.
-reviewed: true

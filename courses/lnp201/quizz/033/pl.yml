@@ -1,9 +1,0 @@
-question: Na czym polega routing warstwowy w sieci Lightning?
-answer: Każdy węzeł pośredni zna tylko swoich bezpośrednich sąsiadów na ścieżce.
-wrong_answers:
-  - Środki przesyłane są bezpośrednio od węzła do węzła i wszystkim znany jest ostateczny odbiorca
-  - Opłaty dla każdego węzła pośredniego obliczane są niezależnie
-  - Środki wysyłane są na ścieżce do wszystkich węzłów jednocześnie
-explanation: |
-  Trasowanie warstwowe oznacza, że każdy węzeł pośredni zna tylko poprzedni i następny węzeł z zachowaniem poufności odbiorcy końcowego.
-reviewed: true

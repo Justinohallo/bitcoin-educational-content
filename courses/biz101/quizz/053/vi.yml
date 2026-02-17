@@ -1,9 +1,0 @@
-question: Những thông tin thanh toán quan trọng nào phải được ghi lại cho mỗi giao dịch Bitcoin?
-answer: Ngày, số tiền, giá trị pháp định tương đương và địa chỉ liên quan
-wrong_answers:
-  - transaction ID, phí mạng và địa chỉ của người bán
-  - Ngày, tỷ giá hối đoái, loại wallet và vị trí địa lý
-  - Số khối Bitcoin, dấu thời gian và tập lệnh được sử dụng
-explanation: |
-  Việc ghi lại những chi tiết này đảm bảo tính rõ ràng và hỗ trợ kế toán viên phân biệt luồng tiền vào và ra.
-reviewed: true

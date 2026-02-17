@@ -1,9 +1,0 @@
-question: Kích thước hiện tại của blockchain Bitcoin là bao nhiêu?
-answer: Khoảng 660GB
-wrong_answers:
-  - Khoảng 110GB
-  - Khoảng 1TB
-  - Khoảng 2TB
-explanation: |
-  Blockchain Bitcoin có kích thước khoảng 660GB tính đến năm 2025.
-reviewed: true

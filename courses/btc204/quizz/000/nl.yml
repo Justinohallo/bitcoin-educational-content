@@ -1,9 +1,0 @@
-question: Wat betekent de afkorting UTXO in het Engels?
-answer: Ongebruikte transactie-output
-wrong_answers:
-  - Unified Transaction Output
-  - Alleen gebruikerstransactie
-  - Utility token Exchange Optie
-explanation: |
-  Een UTXO is een output van een transactie die nog niet is uitgegeven.
-reviewed: false

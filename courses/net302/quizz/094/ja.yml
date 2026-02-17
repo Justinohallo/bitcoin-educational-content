@@ -1,9 +1,0 @@
-question: あるドメインのIP Addressを取得するためにDNSサーバーに問い合わせるには、どのコマンドを使用できますか？
-answer: エヌエスルックアップ
-wrong_answers:
-  - ネットスタット
-  - ナマップ
-  - 勾配
-explanation: |
-  nslookupは、ドメイン名をIPアドレスに解決するためのDNSクエリーツールである。
-reviewed: false

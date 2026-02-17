@@ -1,9 +1,0 @@
-question: Kada je Commitment Transaction (obavezujuća transakcija) objavljena na Bitcoin Blockchain-u?
-answer: Na kraju kada je kanal zatvoren
-wrong_answers:
-  - Odmah nakon svakog prenosa u kanalu
-  - Pre svake nove obavezujuće transakcije
-  - Kada su raspoloživa sredstva iscrpljena
-explanation: |
-  Obavezujuće transakcije se kreiraju i potpisuju za svaku promenu u alokaciji, ali se objavljuju na Blockchain-u samo u slučaju zatvaranja kanala.
-reviewed: true

@@ -1,9 +1,0 @@
-question: ¿Qué constituye un Anchor en RGB?
-answer: ID de transacción, MPC, DBC y Extra Transaction Proof
-wrong_answers:
-  - Genesis, Seal Definition y Transition Bundle
-  - Esquema contractual, Business Logic y Owned State
-  - Firma, hash de transacción y commitment de Pedersen
-explanation: |
-  Un Anchor contiene los datos necesarios para demostrar la inclusión de un commitment único en una transacción Bitcoin.
-reviewed: false

@@ -1,8 +1,0 @@
-question: Welche Ebene im Ableitungspfad gibt den Währungstyp an?
-answer: Ebene 2
-wrong_answers:
-  - Ebene 1
-  - Ebene 3
-  - Ebene 4
-explanation: |
-  Ebene 2 wird verwendet, um die Währung in Multi-Währungs-Wallets zu identifizieren, wie zum Beispiel Bitcoin (Index 0') oder Litecoin (Index 2').

@@ -1,9 +1,0 @@
-question: Je, ni suluhisho gani la msingi la malipo linalopendekezwa kwa biashara za wasifu Muhimu?
-answer: Swiss Bitcoin Pay
-wrong_answers:
-  - Fungua Node
-  - BTCPay Server
-  - Bitcoinize PoS
-explanation: |
-  Tunaangazia Bitcoin Pay ya Uswizi kama suluhu inayopendekezwa kwa Wasifu Muhimu, kusawazisha urahisi na usalama.
-reviewed: true

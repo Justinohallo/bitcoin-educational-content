@@ -1,9 +1,0 @@
-question: Ni iciyumviro ikihe ca kahise ca RGB gikoreshwa mw’isi y’ubuhinga bwa none?
-answer: Ibikoresho vy'abatwara
-wrong_answers:
-  - Ububiko bw'amakuru bufise aho butwarirwa
-  - Imihora ishingiye kubantu babiri ataho yemerezwa
-  - Gufungura ama ibintabo bishikirwa na bose
-explanation: |
-  RGB itwara ivyiyumviro vy'ibikoresho kubitwara ubuhinga ngurukana bumenyi.
-reviewed: true

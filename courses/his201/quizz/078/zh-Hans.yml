@@ -1,8 +1,0 @@
-question: 中本聪在离开时将网站（包括论坛和 wiki）的控制权转交给了谁？
-answer: Martti Malmi
-wrong_answers:
-  - Gavin Andresen
-  - Hal Finney
-  - Mike Hearn
-explanation:
-  他没有时间管理它，并迅速委托了这项任务。网站和论坛后来由 Theymos 和 Cøbra 接管。

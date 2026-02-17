@@ -1,9 +1,0 @@
-question: Jaka jest rola klucza publicznego w portfelu Bitcoin?
-answer: Jest używany do generowania adresów Bitcoin, a tym samym do otrzymywania pieniędzy.
-wrong_answers:
-  - Służy do szyfrowania transakcji Bitcoin.
-  - Służy do uzyskiwania dostępu do portfela Bitcoin.
-  - Służy do tworzenia kopii zapasowych portfela Bitcoin.
-explanation: |
-  Klucz publiczny jest wyprowadzany z klucza prywatnego i jest używany do generowania adresów Bitcoin w celu otrzymania pieniędzy.
-reviewed: true

@@ -1,9 +1,0 @@
-question: Indeks opsional mana yang dapat diaktifkan di Bitcoin core untuk menemukan transaksi berdasarkan txid-nya?
-answer: txindex
-wrong_answers:
-  - addrindex
-  - blockindex
-  - electrumindex
-explanation: |
-  Opsi txindex=1 digunakan untuk menampilkan transaksi berdasarkan pengenal uniknya (txid).
-reviewed: true

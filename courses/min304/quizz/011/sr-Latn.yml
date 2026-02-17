@@ -1,9 +1,0 @@
-question: Koje su strategije diskutovane za borbu protiv centralizacije rudarenja u Bitcoin-u?
-answer: Strategije o kojima se raspravlja za borbu protiv centralizacije rudarenja u Bitcoinu uključuju rudarenje kod kuće, protokol Stratum V2, otvoreno objavljivanje softvera za rudarenje i diverzifikaciju aktera i geografije.
-wrong_answers:
-  - Strategije o kojima se raspravljalo za borbu protiv centralizacije rudarenja u Bitcoinu uključuju povećanje veličine bloka, implementaciju proof of stake i stvaranje centralnog autoriteta za nadgledanje rudarenja.
-  - Strategije o kojima se raspravljalo za borbu protiv centralizacije rudarenja u Bitcoinu uključuju smanjenje nagrade za izrudareni blok, uvođenje naknade za transakcije i kreiranje poreza na rudarenje.
-  - Strategije o kojima se raspravljalo za borbu protiv centralizacije rudarenja u Bitcoinu uključuju povećanje težine rudarenja, uvođenje limita za rudarenje i kreiranje lutrije za rudarenje.
-explanation: |
-  Poglavlje raspravlja o nekoliko strategija za borbu protiv centralizacije rudarenja u Bitcoinu, uključujući rudarenje kod kuće, protokol Stratum V2, otvoreno objavljivanje softvera za rudarenje i diverzifikaciju aktera i geografije.
-reviewed: true

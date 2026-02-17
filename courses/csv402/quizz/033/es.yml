@@ -1,9 +1,0 @@
-question: ¿Para qué sirve la terminal consignment en el proceso de transferencia RGB?
-answer: Proporciona el historial de las State Transitions
-wrong_answers:
-  - Validar el contrato de Genesis
-  - Borrar transiciones antiguas
-  - Generar un nuevo Schema para la transferencia
-explanation: |
-  La terminal consignment recoge el historial del contrato para demostrar la legitimidad del activo transferido hasta la fecha.
-reviewed: false

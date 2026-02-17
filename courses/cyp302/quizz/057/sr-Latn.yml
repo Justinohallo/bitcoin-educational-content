@@ -1,9 +1,0 @@
-question: Šta je abelova grupa?
-answer: Grupa u kojoj je operacija komutativna
-wrong_answers:
-  - Grupa koja ima jedinstven generator
-  - Grupa ograničena na cele brojeve
-  - Grupa bez neutralnog elementa
-explanation: |
-  Abelova grupa je grupa u kojoj redosled elemenata u operaciji ne utiče na ishod, što znači da se pridržava komutativnosti.
-reviewed: true

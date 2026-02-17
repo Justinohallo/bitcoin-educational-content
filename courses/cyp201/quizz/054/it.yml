@@ -1,9 +1,0 @@
-question: Qual è il ruolo principale della passphrase in un wallet HD Bitcoin?
-answer: Modificare la derivazione della chiave per migliorare la sicurezza
-wrong_answers:
-  - Decifrare le transazioni in sospeso
-  - Generare gli UTXO del portafoglio
-  - Proteggere l'accesso al wallet con il riconoscimento facciale
-explanation: |
-  La passphrase agisce come un secondo fattore di sicurezza, modificando il seed di derivazione della chiave per impedire l'accesso al wallet nel caso in cui la frase mnemonica sia compromessa.
-recensito: false

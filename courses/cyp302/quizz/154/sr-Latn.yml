@@ -1,9 +1,0 @@
-question: U RSA kriptosistemu, zašto je teško pronaći vrednost d?
-answer: Jer zahteva poznavanje φ(N), što zavisi od prostih faktora broja N
-wrong_answers:
-  - Zato što je d nasumičan broj
-  - Zato što je d veće od N
-  - Zato što se d izračunava nezavisno od φ(N)
-explanation: |
-  Pronalaženje d je teško jer se oslanja na poznavanje φ(N), što zavisi od vrednosti p i q, prostih faktora N.
-reviewed: true

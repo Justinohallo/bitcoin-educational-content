@@ -1,9 +1,0 @@
-question: Welche alternative Lösung wird für Unternehmen genannt, die eine All-in-One-Online-Einzelhandelsumgebung bevorzugen?
-answer: Be-BOP
-wrong_answers:
-  - Phoenix
-  - Open NOde
-  - Swiss Bitcoin Pay
-explanation: |
-  Be-BOP ist eine Option für diejenigen, die einen integrierten Online-E-Store wünschen, der Bitcoin-Zahlungen ermöglicht.
-reviewed: true

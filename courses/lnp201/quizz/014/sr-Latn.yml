@@ -1,9 +1,0 @@
-question: Koji je poslednji korak za otvaranje kanala na Lightning mreži?
-answer: Objavljivanje transakciju depozita na Bitcoin Blockchain-u
-wrong_answers:
-  - Potpisivanje transakcije povlačenja radi povrata sredstva
-  - Slanje poruke potvrde o otvaranju drugoj strani.
-  - Provera stanje sredstava svakog učesnika
-explanation: |
-  Poslednji korak za otvaranje kanala je objavljivanje transakcije depozita na Blockchain-u, čime se kanal zvanično otvara.
-reviewed: true

@@ -1,9 +1,0 @@
-question: Jaka jest główna zasada dotycząca środków, które uczestnik może wysłać w kanale płatności?
-answer: Może wysyłać środki tylko z własnej strony kanału.
-wrong_answers:
-  - Może wysyłać je do połowy całkowitej przepustowości kanału.
-  - Może wysłać dowolną kwotę, o ile istnieje wcześniejsze porozumienie.
-  - W razie potrzeby może pożyczyć środki od drugiego uczestnika.
-explanation: |
-  Każdy uczestnik jest ograniczony ilością satów, które posiada w kanale dla swoich transakcji, zapewniając, że fundusze zawsze mają pokrycie.
-reviewed: true

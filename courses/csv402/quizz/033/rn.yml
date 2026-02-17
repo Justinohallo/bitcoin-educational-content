@@ -1,9 +1,0 @@
-question: Ni intumbero iyihe ya ahashirwa ibintu hanyuma mu nzira yo kurungika RGB?
-answer: Tanga kahise uko kameze
-wrong_answers:
-  - Kwemeza Itanguriro ry'amasezerano.
-  - Gufutauko vyari bimeze kera
-  - Gukora igicapo gishasha c'irungika
-explanation: |
-  Aho gushira hanyuma hashira hamwe kahise k'amasezerano  kugira ngo yerekane ko umutungo wimuriwe gushika n’ubu ari wemerewe.
-reviewed: true

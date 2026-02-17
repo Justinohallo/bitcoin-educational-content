@@ -1,9 +1,0 @@
-question: Jaka jest główna rola klucza prywatnego w systemie Bitcoin?
-answer: Podpisywanie transakcji w celu wykonania skryptu
-wrong_answers:
-  - Służy jako identyfikator do otrzymywania bitcoinów
-  - Bezpieczne przechowywanie środków w łańcuchu bloków
-  - Tworzenie skryptów blokujących do ochrony bitcoinów
-explanation: |
-  Klucz prywatny jest używany do podpisywania transakcji w celu wykonania skryptu i odblokowania bitcoinów.
-reviewed: true

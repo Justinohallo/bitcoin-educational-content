@@ -1,9 +1,0 @@
-question: Kuka keksi yksinkertaistetun maksujen varmentamisen (SPV) käsitteen?
-answer: Satoshi Nakamoto
-wrong_answers:
-  - Hal Finney
-  - Adam Back
-  - Pieter Wuille
-explanation: |
-  SPV esitellään Satoshi Nakamoton valkoisen kirjan osassa 8.
-reviewed: true

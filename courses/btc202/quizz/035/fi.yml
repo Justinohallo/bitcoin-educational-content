@@ -1,9 +1,0 @@
-question: Mitä komponenttia suositellaan solmun suojaamiseksi sähkökatkoksen sattuessa?
-answer: Invertteri
-wrong_answers:
-  - Toinen näytönohjain
-  - Lisäreititin
-  - USB-keskitin
-explanation: |
-  Vaihtosuuntaaja estää äkilliset sammutukset sähkökatkoksen sattuessa ja suojaa solmun vakautta.
-reviewed: true

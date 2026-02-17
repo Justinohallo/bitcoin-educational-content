@@ -1,9 +1,0 @@
-question: Mit welcher Art von Hardware wurde am Anfang von Bitcoin hauptsächlich gemined?
-answer: CPU
-wrong_answers:
-  - GPU
-  - ASIC
-  - FPGA
-explanation: |
-  Beim Start lief die Software auf einem PC und nutzte hauptsächlich den Prozessor.
-reviewed: false

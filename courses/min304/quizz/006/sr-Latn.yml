@@ -1,9 +1,0 @@
-question: Koji je glavni zadatak rudara u Bitcoin mreži?
-answer: Rešavanje digitalne zagonetke i potvrđivanje novih blokova
-wrong_answers:
-  - Kreiranje novih bitkoina
-  - Kontrolisanje Bitcoin cene 
-  - Verifikovanje identiteta Bitcoin korisnika 
-explanation: |
-  U kontekstu Bitcoin rudarenja, rudari se trude da brzo reše digitalnu zagonetku. Prvi rudar koji reši zagonetku predstavlja svoje rešenje celokupnoj mreži, koja zatim lako može da proveri njegovu validnost. Ovo uspešno verifikovanje omogućava rudaru da validira novi blok i doda ga u Bitcoin Timechain.
-reviewed: true

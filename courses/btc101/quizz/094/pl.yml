@@ -1,9 +1,0 @@
-question: Jaka jest standardowa metoda przywrócenia dostępu do portfela?
-answer: Wprowadzanie frazy mnemonicznej do dowolnego oprogramowania portfela.
-wrong_answers:
-  - Zapisanie frazy mnemonicznej w pliku cyfrowym.
-  - Zapisanie frazy mnemonicznej na tablicy.
-  - Podzielenie się frazą mnemoniczną z zaufanym przyjacielem.
-explanation: |
-  Standardową metodą utworzenia kopii zapasowej klucza prywatnego na urządzeniu z portfelem Bitcoin jest wprowadzenie frazy mnemonicznej do dowolnego oprogramowania portfela. Umożliwia to przywrócenie dostępu do portfela.
-reviewed: false
